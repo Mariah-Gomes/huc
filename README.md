@@ -64,3 +64,15 @@ Leonardo Anjoletto
 - Integração aos alunos no ambiente universitário
 - Troca de conhecimento de forma dinâmica e leve
     
+Análise de concorrência
+NOTE:: O fator mais importante desta entrega é a equipe conseguir identificar e documentar prints de telas de interfaces concorrentes (ou interfaces representativas para o público alvo). Esses prints serão usados na fase de caracterização de padrões, affordances, heurísticas, etc. CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA E/OU ATUANDO PARA O MESMO PÚBLICO ALVO.
+
+Identifique os principais concorrentes mais utilizados pelo seu público-alvo.
+NOTE:: link, descrição e imagens de ilustração
+
+Descreva as características e funcionalidades de cada concorrente.
+Colete opniões sobre a experiência do usuário (UX) de cada concorrente.
+Apresente os preços e modelos de negócio de cada concorrente.
+Identifique padrões e tendências no mercado.
+Elabore relatórios e sumarize os resultados.
+Extraia pontos positivos/negativos e faça recomendações.

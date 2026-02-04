@@ -88,3 +88,13 @@ Integração universitária, socialização e troca de conhecimentos de forma di
 5. Identifique padrões e tendências no mercado.
 6. Elabore relatórios e sumarize os resultados.
 7. Extraia pontos positivos/negativos e faça recomendações.
+
+**Resolução:**
+
+### LinkedIn
+
+O **LinkedIn** é uma **plataforma de rede social profissional** voltada para **conexões de carreira, recrutamento e desenvolvimento profissional**. Fundado em 2002 e adquirido pela **Microsoft em 2016**, o LinkedIn se consolidou como a principal rede global de networking corporativo, com mais de **900 milhões de usuários em mais de 200 países**.
+
+A plataforma permite que usuários criem perfis profissionais, compartilhem experiências, publiquem conteúdos, procurem vagas e interajam com empresas e outros profissionais. Além da função de rede social, o LinkedIn também atua como **plataforma de marketing B2B, recrutamento e educação online**, integrando produtos como **LinkedIn Recruiter**, **LinkedIn Learning** e **LinkedIn Ads**.
+
+![imagem_2025-10-14_112407830.png](attachment:c58b4116-7023-4545-9124-d0c53ab72e90:imagem_2025-10-14_112407830.png)

@@ -97,7 +97,7 @@ O **LinkedIn** é uma **plataforma de rede social profissional** voltada para **
 
 A plataforma permite que usuários criem perfis profissionais, compartilhem experiências, publiquem conteúdos, procurem vagas e interajam com empresas e outros profissionais. Além da função de rede social, o LinkedIn também atua como **plataforma de marketing B2B, recrutamento e educação online**, integrando produtos como **LinkedIn Recruiter**, **LinkedIn Learning** e **LinkedIn Ads**.
 
-![imagem_2025-10-14_112407830.png](attachment:c58b4116-7023-4545-9124-d0c53ab72e90:imagem_2025-10-14_112407830.png)
+<img width="1323" height="612" src="attachment:c58b4116-7023-4545-9124-d0c53ab72e90:imagem_2025-10-14_112407830.png" />
 
 ### Facebook
 
@@ -106,4 +106,4 @@ O **Facebook** (atualmente parte da empresa-mãe Meta Platforms) é uma rede soc
 Além disso, o Facebook oferece uma **plataforma de marketing digital** robusta, permitindo que empresas façam publicidade segmentada, construam públicos personalizados e acompanhem métricas de desempenho. Também oferece APIs e ferramentas para desenvolvedores integrarem aplicativos externos com os dados da rede social (via **Facebook Platform / Graph API**).
 
 <img width="1323" height="612" src="https://github.com/user-attachments/assets/4e459b6e-6d0e-428a-bf5f-c56d30d4c561" />
-![imagem_2025-10-14_131610181.png](attachment:e9e4c9fb-1037-4414-a2b3-48cf73595211:imagem_2025-10-14_131610181.png)
+<img width="1323" height="612" src="attachment:e9e4c9fb-1037-4414-a2b3-48cf73595211:imagem_2025-10-14_131610181.png" />

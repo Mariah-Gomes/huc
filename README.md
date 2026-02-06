@@ -1,7 +1,10 @@
 # Projeto de Interface Humano Computador
->
-> a
->a
+
+> Status do Projeto: Em andamento
+
+> Esse projeto nos foi proposto no 8º Semestre nas aulas de Interface Humano Computador
+
+> Desenvolvemos esse projeto juntos durante as aulas
 
 ## Aulas
 [Aula 1 - Atividade de Definição de Projeto](#aula-1-atividade-de-definição-de-projeto)

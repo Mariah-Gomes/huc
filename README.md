@@ -7,7 +7,7 @@
 > Desenvolvemos esse projeto juntos durante as aulas
 
 ## Aulas
-[Aula 1 - Atividade de Definição de Projeto](./aula1.md)
-[Aula 2 - Análise de concorrência](./aula2.md)
+- [Aula 1 - Atividade de Definição de Projeto](./aula1.md)
+- [Aula 2 - Análise de concorrência](./aula2.md)
 
     

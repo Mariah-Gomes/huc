@@ -2,14 +2,12 @@
 
 **Com a colaboração de todos os membros da equipe, exercitar o tema de projeto respondendo as 11 questões abaixo.**
 
----
-
 ## 1. Membros de Equipe
-- **Iago Rosa de Oliveira** — R.A.: 22.224.027-7  
-- **Mariah Santos Gomes** — R.A.: 22.224.026-9  
+- **Iago Rosa de Oliveira** - R.A.: 22.224.027-7  
+- **Mariah Santos Gomes** - R.A.: 22.224.026-9  
 
 ## 2. Título Original do TCC
-Rede social universitária - **Goriah**
+Rede social universitária - Goriah
 
 ## 3. Nome do orientador
 Leonardo Anjoletto

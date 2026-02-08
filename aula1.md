@@ -1,5 +1,5 @@
 # Aula 1 - Atividade de Definição de Projeto
-Com a colaboração de todos os membros da equipe, exercitar o tema de projeto respondendo as 11 questões abaixo. 
+**Com a colaboração de todos os membros da equipe, exercitar o tema de projeto respondendo as 11 questões abaixo.** 
 
 1. Membros de Equipe (nome completo e número de matrícula):
 - Iago Rosa de Oliveira R.A.: 22.224.027-7
@@ -10,16 +10,12 @@ Com a colaboração de todos os membros da equipe, exercitar o tema de projeto r
 4. Previsto desenvolver Interface? ( X ) Sim     (   ) Não
 
 5. Objetivo do trabalho?
-<br>
+
 Criar uma rede social para unir e integrar alunos universitários e instituições a partir de compartilhamento de conhecimentos e dificuldades.
 
-6. Qual o produto final?
-<br>
-Rede social
+**6. Qual o produto final?** Rede social
 
-7. Quem é o usuário final deste produto?
-<br>
-Alunos e professores
+**7. Quem é o usuário final deste produto?** Alunos e professores
 
 8. O que o usuário recebe de benefício ao usar esse produto?
 <br>

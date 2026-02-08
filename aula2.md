@@ -50,70 +50,41 @@ O LinkedIn é uma rede social profissional fundada em 2002 e adquirida pela Micr
 
 ## 3. Colete opiniões sobre a experiência do usuário (UX) de cada concorrente
 ### 3.1 Facebook
-**Opiniões gerais**
+#### Opiniões gerais:
 - Interface mais simplificada em comparação a versões anteriores  
 - Design funcional, porém visualmente pouco atrativo  
 - Organização das funcionalidades pode gerar confusão  
-
-**Pontos positivos**
+#### Pontos positivos:
 - Alternância entre diferentes tipos de feed  
 - Criação e gerenciamento de grupos bem estruturados  
 - Facilidade de uso para públicos menos familiarizados com tecnologia  
-
-**Pontos negativos**
+#### Pontos negativos:
 - Excesso de funcionalidades concentradas na barra lateral  
 - Organização pouco intuitiva de alguns recursos  
 
----
-
-#### 3.2 LinkedIn
-
-**Opiniões gerais**
+### 3.2 LinkedIn
+#### Opiniões gerais:
 - Interface organizada, porém com excesso de informações no feed  
 - Design alinhado ao público profissional  
 - Uso de recursos adicionais para estimular engajamento  
-
-**Pontos positivos**
+#### Pontos positivos:
 - Estrutura de perfil bem definida  
 - Organização consistente do feed  
 - Recursos que incentivam a permanência do usuário  
-
-**Pontos negativos**
+#### Pontos negativos:
 - Feed visualmente carregado  
 - Grande volume de informações exibidas simultaneamente  
 
----
-
-### 4. Apresente os preços e modelos de negócio de cada concorrente
-
----
-
-#### 4.1 Facebook
+## 4. Apresente os preços e modelos de negócio de cada concorrente
+### 4.1 Facebook
 - Uso gratuito para usuários  
 - Monetização baseada principalmente em publicidade paga  
-
----
-
-#### 4.2 LinkedIn
+### 4.2 LinkedIn
 - Plano gratuito  
 - Planos Premium pagos  
 - Serviços corporativos (Recruiter, Ads, Learning)  
 
-
-
-
-
-5. Identifique padrões e tendências no mercado.
-6. Elabore relatórios e sumarize os resultados.
-7. Extraia pontos positivos/negativos e faça recomendações.
-
-
-
-
----
-
-## 4. Padrões e tendências identificados
-
+## 5. Identifique padrões e tendências no mercado
 A partir da análise das plataformas estudadas, foram identificados os seguintes padrões:
 
 - O **feed como página principal** da plataforma  
@@ -125,20 +96,14 @@ A partir da análise das plataformas estudadas, foram identificados os seguintes
 - Estratégias de **engajamento contínuo**, como notícias, conteúdos recomendados e elementos interativos  
 - Monetização baseada em **publicidade e planos premium**
 
----
-
-## 5. Síntese dos resultados (relatório)
-
+## 6. Elabore relatórios e sumarize os resultados
 A análise das plataformas Facebook e LinkedIn permitiu compreender como redes sociais amplamente utilizadas pelo público universitário estruturam seus conteúdos, interfaces e estratégias de engajamento.
 
 Ambas utilizam o feed como elemento central da experiência do usuário, aliado a mecanismos de navegação padronizados, como barra de pesquisa no topo, menu para alternância entre páginas e rolagem contínua de conteúdo. Apesar disso, nenhuma das plataformas possui como objetivo principal a troca estruturada de conhecimento acadêmico ou a resolução colaborativa de problemas.
 
 O Facebook apresenta um conjunto amplo de funcionalidades sociais, enquanto o LinkedIn concentra-se no contexto profissional e de carreira. Em ambos os casos, observa-se que o conhecimento acaba sendo apresentado de forma dispersa e não estruturada.
 
----
-
-## 6. Pontos positivos e negativos gerais
-
+## 7. Extraia pontos positivos/negativos e faça recomendações.
 ### Pontos positivos identificados
 - Uso do feed como forma central de consumo de conteúdo  
 - Estrutura clara de navegação entre páginas  
@@ -151,10 +116,7 @@ O Facebook apresenta um conjunto amplo de funcionalidades sociais, enquanto o Li
 - Organização de funcionalidades nem sempre intuitiva  
 - Forte presença de autopromoção e interesses comerciais  
 
----
-
-## 7. Recomendações para o projeto
-
+### Recomendações
 Com base no benchmarking realizado, recomenda-se que a plataforma proposta:
 
 - Utilize o **feed como página principal**, porém com maior controle e organização do conteúdo  
@@ -165,4 +127,3 @@ Com base no benchmarking realizado, recomenda-se que a plataforma proposta:
 - Organize funcionalidades de forma mais clara, evitando excesso de elementos simultâneos  
 
 Dessa forma, a proposta do projeto busca aproveitar conceitos consolidados das plataformas analisadas, ao mesmo tempo em que se diferencia ao focar na **organização do conhecimento**, na **colaboração estruturada** e no **contexto universitário**.
-

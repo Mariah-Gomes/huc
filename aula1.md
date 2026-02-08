@@ -13,8 +13,8 @@ Rede social universitária - Goriah
 Leonardo Anjoletto
 
 ## 4. Previsto desenvolver Interface?
-- (X) Sim  
-- ( ) Não  
+- ( X ) Sim  
+- (   ) Não  
 
 ## 5. Objetivo do trabalho
 Criar uma rede social para unir e integrar alunos universitários e instituições por meio do compartilhamento de conhecimentos e dificuldades acadêmicas.

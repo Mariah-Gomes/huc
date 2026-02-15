@@ -15,7 +15,7 @@
 
 ### 👤 Identidade
 
-<img src="ChatGPT Image 11 de fev. de 2026, 19_26_30.png" width=300px height=400px>
+<img width="300" height="400" alt="ChatGPT Image 11 de fev  de 2026, 19_26_30" src="https://github.com/user-attachments/assets/61903c81-114a-4141-9af1-80583168b076" />
 
 - **Nome:** Ana Beatriz Cavalcante
 - **Idade:** 18 anos
@@ -131,7 +131,7 @@ Ana espera que a plataforma:
 
 ### 👤 Identidade
 
-<img src="ChatGPT Image 12 de fev. de 2026, 10_51_14.png" width=300px height=400px>
+<img width="300" height="400" alt="ChatGPT Image 12 de fev  de 2026, 10_51_14" src="https://github.com/user-attachments/assets/82a775fa-f6ca-4147-aced-f6a08981ca15" />
 
 - **Nome:** Lucas Silva Maciel
 - **Idade:** 24 anos

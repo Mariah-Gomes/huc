@@ -1,13 +1,18 @@
-# Projeto de Interface Humano Computador
+# Projeto de Interface Humano-Computador (IHC)
 
-> Status do Projeto: Em andamento
+> Status do Projeto: 🟡 Em andamento  
+> Semestre: 8º  
+> Disciplina: Interface Humano-Computador  
 
-> Esse projeto nos foi proposto no 8º Semestre nas aulas de Interface Humano Computador
+Este projeto foi desenvolvido ao longo das aulas da disciplina de IHC,
+com foco na aplicação prática dos conceitos de usabilidade,
+experiência do usuário (UX) e design centrado no usuário.
 
-> Desenvolvemos esse projeto juntos durante as aulas
+Cada etapa está documentada nas páginas abaixo:
 
-## Aulas
-- [1. Aula - Atividade de Definição de Projeto](./aula1.md)
-- [2. Aula - Análise de concorrência](./aula2.md)
+## 📚 Aulas e Desenvolvimento
 
-    
+- [1. Aula - Definição do Projeto](./aula1.md)
+- [2. Aula - Análise de Concorrência](./aula2.md)
+- [3. Aula - Personas](./aula3.md)
+

@@ -15,7 +15,7 @@
 
 ### 👤 Identidade
 
-![alt text](<ChatGPT Image 11 de fev. de 2026, 19_26_30.png>)
+<img src="ChatGPT Image 11 de fev. de 2026, 19_26_30.png" width=300px height=400px>
 
 - **Nome:** Ana Beatriz Cavalcante
 - **Idade:** 18 anos
@@ -131,7 +131,7 @@ Ana espera que a plataforma:
 
 ### 👤 Identidade
 
-![alt text](<ChatGPT Image 12 de fev. de 2026, 10_51_14.png>)
+<img src="ChatGPT Image 12 de fev. de 2026, 10_51_14.png" width=300px height=400px>
 
 - **Nome:** Lucas Silva Maciel
 - **Idade:** 24 anos
@@ -647,283 +647,44 @@ A aplicação atua como espaço complementar aos sistemas institucionais formais
 
 # Jornadas dos Usuários
 
-## 🎓 Ana Beatriz Cavalcante — Ingressante Presencial
+## 🎓 Jornada — Ana Beatriz Cavalcante (Ingressante)
 
-> Narrativa baseada na persona primária e no contexto de uso definido anteriormente.
+Ana está no início da faculdade e ainda se sente deslocada. Apesar de frequentar as aulas diariamente, ela percebe que os colegas já começam a formar grupos e sente dificuldade em se aproximar. Tem receio de parecer desinformada e acaba participando pouco das conversas.
 
-### 📖 Cenário Inicial
+Um dia, ouve colegas comentando sobre uma rede social acadêmica da instituição. Curiosa e buscando uma forma menos intimidadora de se aproximar das pessoas, decide se cadastrar.
 
-Ana está no segundo mês de aula da faculdade.
+Nos primeiros dias, apenas observa as interações. Vê alunos comentando sobre disciplinas, compartilhando experiências e divulgando eventos. Em uma dessas publicações, descobre que haverá uma festa organizada por alunos do seu curso.
 
-Ela já conhece algumas pessoas da turma, mas sente que poderia estar mais integrada ao ambiente universitário.
+Ela decide comparecer. Ao chegar, reconhece alguns rostos que já havia visto na plataforma. A conversa flui com mais naturalidade porque já existia uma referência prévia. Ela não está mais totalmente deslocada.
 
-Ela ouviu falar da nova rede social acadêmica da instituição por meio de colegas.
+Nas semanas seguintes, começa a interagir mais tanto presencialmente quanto na rede. Participa de um grupo de estudo que conheceu por meio da plataforma e passa a se sentir parte da universidade.
 
-### 🔵 1️⃣ Como a tarefa começa?
+No final do semestre, Ana percebe que:
 
-#### 🎯 Situação
+- Construiu novas amizades
+- Participou de eventos que antes nem saberia que existiam
+- Está mais segura para falar em sala
+- Sente-se integrada ao ambiente acadêmico
 
-Ana deseja:
-
-- Conhecer mais pessoas do curso
-- Encontrar um grupo de estudo para uma disciplina difícil
-- Saber se há algum evento acadêmico na semana
-
-Ela sente que as informações estão espalhadas entre:
-
-- WhatsApp
-- Instagram
-- Conversas informais
-
-Ela decide acessar a plataforma.
-
-### 🟡 2️⃣ Primeira Interação
-
-#### 🔐 Cadastro / Login
-
-Ana realiza login com e-mail institucional.
-
-O sistema solicita:
-
-- Curso
-- Semestre
-- Interesses acadêmicos
-
-Ela completa o perfil.
-
-📌 Primeira sensação:
-
-“Parece uma rede social, mas só da faculdade.”
-
-### 🟢 3️⃣ Exploração Inicial
-
-Ao entrar no feed, Ana visualiza:
-
-- Publicações de alunos do mesmo curso
-- Discussões sobre matérias
-- Divulgação de eventos
-- Postagens de veteranos
-
-Ela começa apenas observando.
-
-Depois:
-
-- Curte uma publicação
-- Segue colegas
-- Visualiza perfil de um aluno do 4º semestre
-
-### 🟠 4️⃣ Primeira Interação Ativa
-
-Ana tem dúvida sobre um trabalho.
-
-Ela decide:
-
-- Criar uma publicação na área da disciplina
-- Perguntar se alguém já fez aquele tipo de atividade
-
-Ela escolhe postar em um espaço segmentado por curso.
-
-Recebe respostas em poucos minutos.
-
-📌 Emoção:
-
-Alívio e sensação de pertencimento.
-
-### 🔵 5️⃣ Engajamento Recorrente
-
-Com o tempo, Ana passa a:
-
-- Comentar em outras publicações
-- Participar de grupo de estudo
-- Descobrir um evento do centro acadêmico
-- Conectar-se com um veterano que compartilha dicas de estágio
-
-Ela começa a usar a plataforma diariamente.
-
-### 🟣 6️⃣ Consolidação do Uso
-
-Após algumas semanas:
-
-- Já tem conexões estabelecidas
-- Usa a plataforma para acompanhar discussões
-- Compartilha oportunidades
-- Recomenda a plataforma para colegas
-
-A interação deixa de ser apenas funcional e passa a ser social.
-
-### 🔴 7️⃣ Como a tarefa termina?
-
-Cada microtarefa termina quando:
-
-- Ana obtém resposta para sua dúvida
-- Encontra grupo de estudo
-- Descobre evento relevante
-- Cria nova conexão
-
-Mas a jornada maior não termina.
-
-Ela se transforma em uso contínuo.
-
-### 🎯 Estrutura Resumida da Jornada
-
-| Etapa              | O que acontece           | Estado emocional     |
-| ------------------ | ------------------------ | -------------------- |
-| Descoberta         | Ouve falar da plataforma | Curiosidade          |
-| Cadastro           | Cria perfil              | Interesse            |
-| Exploração         | Navega no feed           | Observação           |
-| Primeira interação | Faz pergunta             | Insegurança → Alívio |
-| Engajamento        | Participa ativamente     | Confiança            |
-| Uso contínuo       | Integra rotina           | Pertencimento        |
-
-### 🧠 Insight da Jornada
-
-A jornada mostra que o valor principal da plataforma não está apenas na informação, mas na:
-
-- Redução da insegurança inicial
-- Facilitação da conexão
-- Construção de identidade acadêmica
+Ela continua utilizando a plataforma, mas agora não por insegurança — e sim porque faz parte da sua rotina social e acadêmica.
 
 <br>
 
-## 💼 Lucas Silva Maciel — Estudante Trabalhador (Veterano)
+## 💼 Jornada — Lucas Silva Maciel (Estudante Trabalhador)
 
-> Narrativa baseada na persona ~~secundária~~ **primária** e no contexto de uso definido anteriormente.
+Lucas está no sétimo semestre e conciliando trabalho e faculdade. Com o início do TCC, sente pressão para definir metodologia e coletar dados suficientes. Ele sabe que precisa alcançar muitos estudantes, mas percebe que divulgar sua pesquisa apenas em grupos informais não é suficiente.
 
-### 📖 Cenário Inicial
+Ao saber da rede social acadêmica, decide utilizá-la como meio de ampliar seu alcance. Publica informações sobre seu projeto e começa a interagir com alunos de diferentes semestres.
 
-Lucas está no 7º semestre de Ciência da Computação.
+Aos poucos, recebe respostas ao questionário e sugestões que enriquecem sua pesquisa. Durante essas interações, conhece um estudante que já passou por processo semelhante e que compartilha experiências importantes.
 
-Ele trabalha como estagiário em uma empresa de tecnologia e está iniciando o desenvolvimento do TCC.
+Com a coleta de dados concluída, Lucas avança na produção do TCC com mais segurança. Em uma conversa iniciada na plataforma, é indicado para uma oportunidade profissional na área.
 
-Sua rotina é intensa e ele sente dificuldade em:
+Ao final do curso, Lucas percebe que:
 
-- Encontrar rapidamente referências relevantes
-- Divulgar seu questionário para coleta de dados
-- Filtrar informações importantes entre tantos grupos digitais
+- Conseguiu finalizar o TCC dentro do prazo
+- Ampliou sua rede de contatos
+- Ganhou visibilidade como aluno experiente
+- Construiu conexões úteis para o mercado
 
-Ele descobre que a instituição possui uma rede social acadêmica segmentada por curso e interesse.
-
-### 🔵 1️⃣ Como a tarefa começa?
-
-#### 🎯 Situação
-
-Lucas precisa:
-
-- Aplicar um questionário para seu TCC
-- Encontrar alunos que já cursaram determinada disciplina
-- Obter referências práticas para fundamentação teórica
-
-Ele percebe que divulgar apenas em grupos de WhatsApp limita o alcance e mistura mensagens irrelevantes.
-
-Ele decide utilizar a plataforma para ampliar o alcance e organizar sua busca.
-
-### 🟡 2️⃣ Primeira Interação Estratégica
-
-#### 🔐 Acesso
-
-Lucas realiza login pelo celular durante o deslocamento para a faculdade.
-
-Ele acessa seu perfil já configurado com:
-
-- Curso
-- Semestre
-- Área técnica de interesse
-
-Ele utiliza a busca da plataforma para procurar publicações relacionadas ao tema do seu TCC.
-
-📌 Primeira sensação:
-
-“Se eu conseguir filtrar bem, isso pode economizar meu tempo.”
-
-### 🟢 3️⃣ Exploração Focada
-
-No feed segmentado por curso, Lucas encontra:
-
-- Discussões técnicas
-- Postagens antigas sobre temas semelhantes ao seu TCC
-- Comentários de alunos de semestres anteriores
-
-Ele:
-
-- Salva uma publicação relevante
-- Segue um aluno que já defendeu TCC
-- Explora perfis com foco profissional
-
-Sua navegação é objetiva.
-
-### 🟠 4️⃣ Interação Ativa — TCC
-
-Lucas cria uma publicação:
-
-- Explica brevemente seu tema
-- Anexa link do questionário
-- Segmenta a postagem para alunos da área
-
-Ele recebe interações:
-
-- Comentários com sugestões
-- Compartilhamentos
-- Respostas ao formulário
-
-📌 Emoção:
-
-Sensação de produtividade e avanço real no TCC.
-
-### 🔵 5️⃣ Uso Recorrente
-
-Lucas passa a utilizar a plataforma para:
-
-- Responder dúvidas técnicas de alunos mais novos
-- Compartilhar vagas de estágio
-- Participar de discussões segmentadas
-- Salvar conteúdos úteis
-
-Ele começa a ver valor não apenas acadêmico, mas também profissional.
-
-### 🟣 6️⃣ Consolidação do Uso
-
-Com o tempo, Lucas:
-
-- Torna-se referência em sua área dentro da rede
-- Constrói conexões profissionais
-- Finaliza a coleta de dados do TCC
-- Utiliza a plataforma para divulgar sua pesquisa final
-
-A rede deixa de ser apenas informativa e passa a ser estratégica.
-
-### 🔴 7️⃣ Como a tarefa termina?
-
-Cada microtarefa termina quando:
-
-- Lucas obtém respostas suficientes para o questionário
-- Encontra referência técnica necessária
-- Resolve dúvida específica
-- Conecta-se com alguém relevante
-
-A jornada maior culmina na:
-
-- Finalização do TCC
-- Consolidação de networking
-- Transição para o mercado de trabalho
-
-### 🎯 Estrutura Resumida da Jornada
-
-| Etapa               | O que acontece                    | Estado emocional |
-| ------------------- | --------------------------------- | ---------------- |
-| Descoberta          | Identifica necessidade para o TCC | Pressão          |
-| Busca               | Explora conteúdos segmentados     | Foco             |
-| Primeira publicação | Divulga questionário              | Expectativa      |
-| Interação           | Recebe respostas                  | Produtividade    |
-| Engajamento         | Participa de discussões técnicas  | Confiança        |
-| Consolidação        | Usa para networking e TCC         | Segurança        |
-
-### 🧠 Insight da Jornada
-
-A jornada de Lucas revela que o valor principal da plataforma está em:
-
-- Otimização de tempo
-- Segmentação inteligente
-- Apoio ao desenvolvimento do TCC
-- Ampliação de networking técnico
-
-Diferentemente de Ana, que busca pertencimento, Lucas busca eficiência e impacto acadêmico-profissional.
+Ele pode até reduzir o uso da plataforma após a formatura, mas reconhece que ela foi decisiva em um momento crítico da sua trajetória acadêmica.

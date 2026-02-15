@@ -16,3 +16,8 @@ Cada etapa está documentada nas páginas abaixo:
 - [2. Aula - Análise de Concorrência](./aula2.md)
 - [3. Aula - Personas](./aula3.md)
 
+## 🎯 Objetivo da Disciplina
+
+A disciplina de Interface Humano-Computador (IHC) ensina como projetar sistemas centrados no usuário, focando em usabilidade, experiência do usuário (UX) e boas práticas de design de interfaces.
+
+O objetivo é garantir que sistemas computacionais sejam não apenas funcionais, mas também intuitivos e fáceis de utilizar.

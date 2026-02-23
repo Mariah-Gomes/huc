@@ -24,4 +24,26 @@
 
 <br>
 
-oi
+## Cenário da Ana Beatriz Cavalcante
+
+- **ambiente ou contexto:**
+
+- **atores:**
+
+- **objetivos:**
+
+- **planejamento:**
+
+- **ações:**
+
+- **eventos:**
+
+- **avaliação:**
+
+**texto inicial da Mariah:**
+
+Na primeira semana de aula, Ana Beatriz, caloura do curso de Administração, quer fazer novos amigos e participar das atividades extracurrículares, para isso pede ajuda para professores para saber onde precisa se informar sobre atividades extracurrículares. Com isso, acaba percebendo que as informações estão espalhadas e se for atrás de todas irá perder muito tempo para se integrar e conhecer elas.
+
+<br>
+
+## Cenário do Lucas Silva Maciel

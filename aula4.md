@@ -1,29 +1,5 @@
 # Cenário de Análise/Problema
 
-**Elementos Característicos de um Cenário:**
-
-- **ambiente ou contexto:** detalhes da situação que motivam ou
-  explicam os objetivos, ações e reações dos atores do cenário;
-
-- **atores:** pessoas interagindo com o computador ou outros
-  elementos do ambiente; características pessoais relevantes ao
-  cenário;
-
-- **objetivos:** efeitos na situação que motivam as ações realizadas
-  pelos atores;
-
-- **planejamento:** atividade mental dirigida para transformar um
-  objetivo em um comportamento ou conjunto de ações;
-
-- **ações:** comportamento observável;
-
-- **eventos:** ações externas ou reações produzidas pelo
-  computador ou outras características do ambiente;
-
-- **avaliação:** atividade mental dirigida para interpretar a situação.
-
-<br>
-
 ## Cenário da Ana Beatriz Cavalcante
 
 Na primeira semana de aula, Ana Beatriz Cavalcante, 18 anos, caloura do curso de Administração, chega à universidade com grandes expectativas. Ela deseja fazer novos amigos, participar de atividades extracurriculares e começar desde cedo a construir um currículo diferenciado. Acostumada a encontrar informações rapidamente em redes sociais e aplicativos, acredita que conseguirá descobrir facilmente as oportunidades disponíveis no ambiente acadêmico.
@@ -43,17 +19,16 @@ Ainda determinada a encontrar uma fonte mais confiável, Ana acessa o site insti
 Ao final da semana, Ana avalia a situação de forma mais ampla. Conclui que o problema não está na falta de atividades, mas na ausência de um ambiente centralizado e estruturado que reúna todas as oportunidades de forma organizada, atualizada e filtrável por curso ou interesse. Ela percebe que, se existisse uma plataforma única onde pudesse visualizar atividades acadêmicas, eventos e projetos de maneira clara e integrada, sua adaptação à universidade teria sido mais simples, rápida e motivadora.
 
 ## Cenário do Lucas Silva Maciel
+Lucas, 24 anos, está em seu último ano da graduação na área de tecnologia. Estagiário em uma empresa do setor, divide sua rotina entre o trabalho, as aulas presenciais, atividades acadêmicas e o desenvolvimento do Trabalho de Conclusão de Curso (TCC). Seus dias são organizados em horários apertados, com pouco espaço para interações sociais prolongadas no campus.
 
-- **ambiente ou contexto:**
+Com a aproximação do prazo para definir o tema do TCC, Lucas começa a se sentir pressionado. Ele tem algumas ideias iniciais, mas não tem certeza se são relevantes, viáveis ou suficientemente inovadoras. Seu objetivo é escolher um tema consistente, com aplicabilidade prática e que seja bem avaliado pela banca. No entanto, percebe que precisa validar suas ideias antes de formalizá-las.
 
-- **atores:**
+Diante disso, Lucas organiza mentalmente um plano: ao final das aulas, conversaria com alguns colegas próximos para ouvir opiniões e, posteriormente, procuraria professores para discutir a viabilidade técnica das propostas. Ele acredita que, reunindo diferentes perspectivas, conseguirá amadurecer sua decisão.
 
-- **objetivos:**
+Nos dias seguintes, coloca o plano em prática. Durante intervalos rápidos entre uma aula e outra, comenta suas ideias com amigos. Alguns demonstram interesse, outros sugerem pequenas melhorias, mas as conversas são breves e superficiais, pois todos também estão com pressa. Ao perceber que as opiniões são limitadas ao seu círculo mais próximo, Lucas conclui que talvez esteja recebendo apenas visões muito semelhantes às suas.
 
-- **planejamento:**
+Em seguida, procura dois professores para discutir suas propostas. Consegue conversar rapidamente com um deles após a aula, mas o tempo é curto e o professor sugere que ele refine melhor a ideia antes de aprofundar a discussão. Lucas interpreta essa resposta como um sinal de que ainda precisa amadurecer mais o tema antes de buscar validação formal.
 
-- **ações:**
+Ao longo das semanas, Lucas percebe que, com sua rotina corrida, torna-se difícil ampliar seu círculo de diálogo. Não participa de muitos eventos e raramente permanece no campus além do horário das aulas. Suas interações ficam restritas às mesmas pessoas e aos mesmos ambientes. Avaliando a situação, sente insegurança quanto à qualidade de sua escolha e percebe que está tomando decisões importantes com base em um número reduzido de opiniões.
 
-- **eventos:**
-
-- **avaliação:**
+Ao final desse processo, Lucas entende que a dificuldade não está apenas em escolher um tema, mas em conseguir discutir suas ideias com um grupo mais amplo e diversificado de pessoas, especialmente diante de uma rotina intensa e fragmentada.

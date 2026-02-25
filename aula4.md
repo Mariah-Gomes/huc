@@ -26,21 +26,6 @@
 
 ## Cenário da Ana Beatriz Cavalcante
 
-- **ambiente ou contexto:**
-
-- **atores:**
-
-- **objetivos:**
-
-- **planejamento:**
-
-- **ações:**
-
-- **eventos:**
-
-- **avaliação:**
-
-**texto inicial da Mariah:**
 Na primeira semana de aula, Ana Beatriz Cavalcante, 18 anos, caloura do curso de Administração, chega à universidade com grandes expectativas. Ela deseja fazer novos amigos, participar de atividades extracurriculares e começar desde cedo a construir um currículo diferenciado. Acostumada a encontrar informações rapidamente em redes sociais e aplicativos, acredita que conseguirá descobrir facilmente as oportunidades disponíveis no ambiente acadêmico.
 
 Ao perceber que, durante a recepção de calouros, não recebeu orientações claras sobre onde encontrar atividades extracurriculares, Ana começa a refletir sobre como poderia obter essas informações. Mentalmente, organiza um plano: primeiro perguntaria aos professores do curso, depois buscaria informações nas redes sociais da faculdade e, se necessário, entraria em grupos estudantis para complementar o que encontrasse.
@@ -56,8 +41,6 @@ Ainda determinada a encontrar uma fonte mais confiável, Ana acessa o site insti
 À medida que executa o plano que havia traçado, Ana começa a perceber um padrão: as informações existem, mas estão fragmentadas entre diferentes canais — professores, redes sociais, grupos informais e site institucional. A cada tentativa, precisa reorganizar mentalmente o que encontrou, cruzar dados e decidir quais informações parecem mais confiáveis. Esse processo exige tempo e esforço que ela não esperava investir.
 
 Ao final da semana, Ana avalia a situação de forma mais ampla. Conclui que o problema não está na falta de atividades, mas na ausência de um ambiente centralizado e estruturado que reúna todas as oportunidades de forma organizada, atualizada e filtrável por curso ou interesse. Ela percebe que, se existisse uma plataforma única onde pudesse visualizar atividades acadêmicas, eventos e projetos de maneira clara e integrada, sua adaptação à universidade teria sido mais simples, rápida e motivadora.
-
-<br>
 
 ## Cenário do Lucas Silva Maciel
 

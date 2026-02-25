@@ -47,3 +47,17 @@ Na primeira semana de aula, Ana Beatriz, caloura do curso de Administração, qu
 <br>
 
 ## Cenário do Lucas Silva Maciel
+
+- **ambiente ou contexto:**
+
+- **atores:**
+
+- **objetivos:**
+
+- **planejamento:**
+
+- **ações:**
+
+- **eventos:**
+
+- **avaliação:**

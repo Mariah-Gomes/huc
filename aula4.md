@@ -36,15 +36,15 @@ Ao longo das semanas, Lucas percebe que, com sua rotina corrida, torna-se difíc
 Ao final desse processo, Lucas entende que a dificuldade não está apenas em escolher um tema, mas em conseguir discutir suas ideias com um grupo mais amplo e diversificado de pessoas, especialmente diante de uma rotina intensa e fragmentada.
 
 ## Questões de Refinamento
-| Elemento     |	Questão de Refinamento                                                                                           |
-| ------------ | ------------------------------------------------------------------------------------------------------------------|
-| Objetivo     |	Quais informações são (ou deveriam ser) criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo? |
-| Ambiente     |	Que dispositivos e outros recursos (inclusive tempo) estão disponíveis para o alcance do objetivo?               |
-| Atores       |	De quem depende o alcance do objetivo? Quem fornece as informações necessárias ao alcance do objetivo?           |
-| Planejamento |	Quais são as estratégias alternativas para realizar o objetivo?                                                  |
-| Ação         |	Quais problemas ou dificuldades podem surgir ao realizá-la? Como podem ser resolvidos ou contornados?            |
-| Evento       |	Quais eventos são (ou deveriam ser) disparados pela conclusão desse objetivo?                                    |
-| Avaliação    |	Como os atores conseguem saber se o objetivo foi concluído e alcançado com sucesso?                              |
+|Q| Elemento     |	Questão de Refinamento                                                                                           |
+|-| ------------ | ------------------------------------------------------------------------------------------------------------------|
+|Q1| Objetivo     |	Quais informações são (ou deveriam ser) criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo? |
+|Q2| Ambiente     |	Que dispositivos e outros recursos (inclusive tempo) estão disponíveis para o alcance do objetivo?               |
+|Q3| Atores       |	De quem depende o alcance do objetivo? Quem fornece as informações necessárias ao alcance do objetivo?           |
+|Q4| Planejamento |	Quais são as estratégias alternativas para realizar o objetivo?                                                  |
+|Q5| Ação         |	Quais problemas ou dificuldades podem surgir ao realizá-la? Como podem ser resolvidos ou contornados?            |
+|Q6| Evento       |	Quais eventos são (ou deveriam ser) disparados pela conclusão desse objetivo?                                    |
+|Q7| Avaliação    |	Como os atores conseguem saber se o objetivo foi concluído e alcançado com sucesso?                              |
 
 ## Refinamento do Cenário de Análise/Problema
 ### Cenário da Ana Beatriz Cavalcante

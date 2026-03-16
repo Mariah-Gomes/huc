@@ -15,6 +15,7 @@ Cada etapa está documentada nas páginas abaixo:
 - [1. Aula - Definição do Projeto](./aula1.md)
 - [2. Aula - Análise de Concorrência](./aula2.md)
 - [3. Aula - Personas](./aula3.md)
+- [4. Aula - Jornada de Usuário](./aula4.md)
 
 ## 🎯 Objetivo da Disciplina
 

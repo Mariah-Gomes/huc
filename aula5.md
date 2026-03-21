@@ -6,17 +6,17 @@
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---|---|
-| **0. Participar do feed**<br>**Plano:** 1 + 2 | **Input:** feed com publicações disponíveis e ações de interação/manipulação acessíveis ao usuário.<br>**Feedback:** o usuário consegue visualizar conteúdos, interagir com publicações e manipular conteúdos próprios no feed.<br>**Plano:** explorar o feed e/ou manipular conteúdo no feed.<br>**Recomendação:** manter navegação clara, elementos visíveis e ações principais acessíveis na interface. |
-| **1. Explorar feed**<br>**Plano:** 1.1 / (1.1 > 1.2) | **Problema:** excesso de conteúdo pode dificultar a localização de publicações relevantes.<br>**Recomendação:** oferecer mecanismos de exploração como rolagem, filtros e busca para facilitar o acesso ao conteúdo desejado. |
-| **1.1 Acompanhar conteúdo** | **Problema:** o usuário pode ter dificuldade para acompanhar atualizações caso o feed não seja organizado ou legível.<br>**Recomendação:** apresentar publicações com hierarquia visual clara e navegação fluida. |
-| **1.2 Interagir com conteúdo**<br>**Plano:** 1.2.1 / 1.2.2 / 1.2.3 | **Problema:** ações de interação pouco visíveis ou pouco intuitivas podem reduzir o engajamento do usuário.<br>**Recomendação:** destacar visualmente botões de reagir, comentar e denunciar, mantendo consistência entre as ações. |
+| **0. Participar do feed**<br>**Plano:** 1 + 2 | **Input:** feed com publicações disponíveis e ações acessíveis ao usuário.<br>**Feedback:** o usuário consegue explorar o feed, interagir com conteúdos e manipular conteúdos próprios.<br>**Plano:** explorar o feed e/ou manipular conteúdo no feed.<br>**Recomendação:** manter navegação clara e ações principais visíveis na interface. |
+| **1. Explorar feed**<br>**Plano:** 1.1 / (1.1 > 1.2) | **Plano:** acompanhar conteúdos do feed e, quando desejado, interagir com eles. |
+| **1.1 Acompanhar conteúdo** | **Problema:** o usuário pode ter dificuldade para acompanhar as publicações caso o feed não seja organizado ou legível.<br>**Recomendação:** apresentar os conteúdos com hierarquia visual clara e navegação fluida. |
+| **1.2 Interagir com conteúdo**<br>**Plano:** 1.2.1 / 1.2.2 / 1.2.3 | **Plano:** permitir ao usuário reagir, comentar ou denunciar publicações conforme sua necessidade. |
 | **1.2.1 Reagir a publicações** | **Problema:** o usuário pode não perceber facilmente a possibilidade de reagir ou não compreender o efeito da ação.<br>**Recomendação:** exibir o botão de reação de forma visível e fornecer retorno imediato após a interação. |
 | **1.2.2 Comentar publicações** | **Problema:** campos de comentário pouco evidentes ou com fluxo confuso podem dificultar a participação textual do usuário.<br>**Recomendação:** facilitar a abertura da área de comentários e apresentar feedback claro após o envio. |
 | **1.2.3 Denunciar publicações** | **Problema:** se o processo de denúncia for pouco claro, o usuário pode desistir de reportar conteúdos inadequados.<br>**Recomendação:** manter o fluxo de denúncia simples, com seleção objetiva do motivo e confirmação da ação realizada. |
-| **2. Manipular conteúdo no feed**<br>**Plano:** 2.1 / 2.2 / 2.3 | **Problema:** o usuário pode ter dificuldade para localizar ações relacionadas às próprias publicações.<br>**Recomendação:** agrupar ações de manipulação em local previsível, como menu de opções da publicação. |
-| **2.1 Publicar conteúdo** | **Problema:** um formulário confuso ou excessivamente longo pode dificultar a criação de novas publicações.<br>**Recomendação:** simplificar o fluxo de publicação, destacando campos obrigatórios e o botão de publicar. |
-| **2.2 Editar conteúdo** | **Problema:** o usuário pode não perceber como alterar uma publicação já criada ou ter receio de perder informações.<br>**Recomendação:** permitir edição de forma acessível, com preenchimento prévio do conteúdo já publicado e confirmação após salvar. |
-| **2.3 Excluir conteúdo** | **Problema:** a exclusão acidental de uma publicação pode gerar perda de conteúdo relevante.<br>**Recomendação:** solicitar confirmação antes de excluir e apresentar feedback de remoção após a ação. |
+| **2. Manipular conteúdo no feed**<br>**Plano:** 2.1 / 2.2 / 2.3 | **Plano:** permitir ao usuário publicar, editar ou excluir conteúdos de sua autoria no feed. |
+| **2.1 Publicar conteúdo** | **Problema:** um fluxo confuso ou excessivamente longo pode dificultar a criação de publicações.<br>**Recomendação:** simplificar a criação de conteúdo, destacando campos obrigatórios e o botão de publicar. |
+| **2.2 Editar conteúdo** | **Problema:** o usuário pode não perceber como alterar uma publicação já criada ou ter receio de perder informações.<br>**Recomendação:** permitir edição de forma acessível, com conteúdo previamente carregado e confirmação após salvar. |
+| **2.3 Excluir conteúdo** | **Problema:** a exclusão acidental de uma publicação pode gerar perda de conteúdo relevante.<br>**Recomendação:** solicitar confirmação antes de excluir e apresentar feedback após a remoção. |
 
 ## GOMS
 

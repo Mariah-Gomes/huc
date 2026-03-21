@@ -88,3 +88,5 @@
         - **OP. 2.3.A.4:** visualizar a mensagem de confirmação da exclusão
         - **OP. 2.3.A.5:** clicar no botão para confirmar a exclusão
         - **OP. 2.3.A.6:** visualizar o feed sem a publicação excluída
+
+## CTT

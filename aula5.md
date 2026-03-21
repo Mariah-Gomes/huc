@@ -1,8 +1,12 @@
 # Organização do Espaço de Problema
 
+<br>
+
 ## HTA
 
 <img width="1760" height="704" alt="HTA" src="https://github.com/user-attachments/assets/0eac4f85-b986-40c4-a189-5c2d74d62abd" />
+
+<br>
 
 ## GOMS
 
@@ -88,5 +92,7 @@
         - **OP. 2.3.A.4:** visualizar a mensagem de confirmação da exclusão
         - **OP. 2.3.A.5:** clicar no botão para confirmar a exclusão
         - **OP. 2.3.A.6:** visualizar o feed sem a publicação excluída
+
+<br>
 
 ## CTT

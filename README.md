@@ -2,7 +2,7 @@
 
 > Status do Projeto: 🟡 Em andamento  
 > Semestre: 8º  
-> Disciplina: Interface Humano-Computador  
+> Disciplina: Interface Humano-Computador
 
 Este projeto foi desenvolvido ao longo das aulas da disciplina de IHC,
 com foco na aplicação prática dos conceitos de usabilidade,
@@ -12,11 +12,13 @@ Cada etapa está documentada nas páginas abaixo:
 
 ## 📚 Aulas e Desenvolvimento
 
-- [1. Aula - Definição do Projeto](./aula1.md)
-- [2. Aula - Análise de Concorrência](./aula2.md)
-- [3. Aula - Personas](./aula3.md)
-- [4. Aula - Cenário de Análise/Problema](./aula4.md)
-- [5. Aula - Análise de Tarefas](./aula5.md)
+- [1. Aula - Definição do Projeto](./docs/aula1.md)
+- [2. Aula - Análise de Concorrência](./docs/aula2.md)
+- [3. Aula - Personas](./docs/aula3.md)
+- [4. Aula - Cenário de Análise/Problema](./docs/aula4.md)
+- [5. Aula - Análise de Tarefas](./docs/aula5.md)
+- [6. Aula - Prototipação](./docs/aula6.md)
+- [7. Aula - Coleta de Dados](./docs/aula7/aula7.md)
 
 ## 🎯 Objetivo da Disciplina
 

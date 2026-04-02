@@ -275,7 +275,6 @@ Lucas espera que a plataforma:
       - Professores com perfis e estilos diferentes<br>
       - Informações circulando principalmente por redes sociais e grupos informais<br>
       - Pouca interação entre alunos de diferentes semestres<br><br>
-
       <strong>📌 Contexto:</strong><br>
       Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.
     </td>
@@ -286,7 +285,6 @@ Lucas espera que a plataforma:
       - “Esse professor é tranquilo, pode perguntar.”<br>
       - “Tem um grupo só para estágio.”<br>
       - Conversas sobre networking e empresas juniores<br><br>
-
       <strong>📌 Influência:</strong><br>
       Grande parte das oportunidades e informações chegam por meio de boca a boca ou redes informais.
     </td>
@@ -294,35 +292,29 @@ Lucas espera que a plataforma:
   <tr>
     <td valign="top" width="50%">
       <strong>🗣 O que Ana diz e faz?</strong><br><br>
-
       <strong>O que ela diz:</strong><br>
       - “Queria conhecer mais gente do meu curso.”<br>
       - “Tenho vergonha de perguntar na sala.”<br>
       - “Seria bom ter um lugar só para falar de faculdade.”<br><br>
-
       <strong>O que ela faz:</strong><br>
       - Entra em vários grupos digitais<br>
       - Segue perfis acadêmicos no Instagram<br>
       - Pergunta dúvidas no privado antes de perguntar em público<br>
       - Observa interações antes de participar<br><br>
-
       <strong>📌 Comportamento:</strong><br>
       Ana é ativa digitalmente, mas cautelosa socialmente.
     </td>
     <td valign="top" width="50%">
       <strong>💭 O que Ana pensa e sente?</strong><br><br>
-
       <strong>Pensamentos:</strong><br>
       - “Será que estou aproveitando a faculdade como deveria?”<br>
       - “Preciso me enturmar mais.”<br>
       - “Quero participar, mas sem me expor demais.”<br><br>
-
       <strong>Sentimentos:</strong><br>
       - Entusiasmo com o início da graduação<br>
       - Insegurança social<br>
       - Curiosidade<br>
       - Desejo de pertencimento<br><br>
-
       <strong>Expectativas sobre a rede social:</strong><br>
       - Ambiente acolhedor<br>
       - Comunicação informal, mas respeitosa<br>
@@ -343,7 +335,6 @@ Lucas espera que a plataforma:
       - Sensação de exclusão de conversas paralelas<br>
       - Falta de um espaço acadêmico informal estruturado<br>
       - Barreiras sociais iniciais<br><br>
-
       <strong>📌 Dor central:</strong><br>
       Falta de integração estruturada dentro do ambiente universitário.
     </td>
@@ -355,7 +346,6 @@ Lucas espera que a plataforma:
       - Tirar dúvidas com menos pressão<br>
       - Descobrir projetos, eventos e grupos de interesse<br>
       - Construir identidade acadêmica desde o início<br><br>
-
       <strong>📌 Ganho principal:</strong><br>
       Pertencimento + conexão + visibilidade acadêmica.
     </td>

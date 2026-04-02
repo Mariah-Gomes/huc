@@ -267,13 +267,13 @@ Lucas espera que a plataforma:
   <tr>
     <td valign="top" width="50%">
       <strong>O que vê?</strong><br><br>
-      - Um campus grande e cheio de pessoas desconhecidas
-      - Grupos já formados entre colegas
-      - Eventos, atléticas e centros acadêmicos divulgando atividades
-      - Professores com perfis e estilos diferentes
-      - Informações circulando principalmente por redes sociais e grupos informais
-      - Pouca interação entre alunos de diferentes semestres
-      **Contexto:** Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.
+      - Um campus grande e cheio de pessoas desconhecidas<br>
+      - Grupos já formados entre colegas<br>
+      - Eventos, atléticas e centros acadêmicos divulgando atividades<br>
+      - Professores com perfis e estilos diferentes<br>
+      - Informações circulando principalmente por redes sociais e grupos informais<br>
+      - Pouca interação entre alunos de diferentes semestres<br>
+      **Contexto:** Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.<br>
     </td>
     <td valign="top" width="50%">
       <strong>O que ouve?</strong><br><br>

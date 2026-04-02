@@ -32,17 +32,27 @@
     </td>
   </tr>
 </table>
-|a|b
-|---------------|---------------|
-| <img width="300" height="400" alt="ChatGPT Image 11 de fev  de 2026, 19_26_30" src="https://github.com/user-attachments/assets/61903c81-114a-4141-9af1-80583168b076" /> | - **Nome:** Ana Beatriz Cavalcante
-- **Idade:** 18 anos
-- **Curso:** Administração
-- **Modalidade:** Presencial
-- **Estado civil:** Solteira
-- **Renda familiar:** Classe média (pais custeiam a mensalidade)
-- **Mora com:** Pais e irmão mais novo
-- **Origem escolar:** Ensino médio particular
-- **Cidade:** Região metropolitana|
+
+aaaaaaaaaaaaaa
+
+<table>
+  <tr>
+    <td valign="top">
+      <img width="300" height="400" alt="Persona Ana Beatriz" src="https://github.com/user-attachments/assets/61903c81-114a-4141-9af1-80583168b076" />
+    </td>
+    <td valign="top">
+      <strong>Nome:</strong> Ana Beatriz Cavalcante<br>
+      <strong>Idade:</strong> 18 anos<br>
+      <strong>Curso:</strong> Administração<br>
+      <strong>Modalidade:</strong> Presencial<br>
+      <strong>Estado civil:</strong> Solteira<br>
+      <strong>Renda familiar:</strong> Classe média (pais custeiam a mensalidade)<br>
+      <strong>Mora com:</strong> Pais e irmão mais novo<br>
+      <strong>Origem escolar:</strong> Ensino médio particular<br>
+      <strong>Cidade:</strong> Região metropolitana
+    </td>
+  </tr>
+</table>
 
 
 

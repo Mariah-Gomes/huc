@@ -11,9 +11,8 @@
 
 <br>
 
-## 🎓 Perfil 1 — Ingressante Presencial
-
-### 👤 Identidade
+## Perfil 1 — Ingressante Presencial
+### Identidade
 <table>
   <tr>
     <td valign="top">
@@ -35,32 +34,28 @@
   </tr>
 </table>
 
-### 🎯 Objetivos
-
+### Objetivos
 | Sociais                                            | Acadêmicos                   | Profissionais                                          |
 |----------------------------------------------------|------------------------------|--------------------------------------------------------|
 | - Criar amizades além da própria turma             | - Trocar dúvidas com colegas | - Conhecer projetos, empresas juniores e oportunidades |
 | - Sentir-se parte da comunidade universitária      | - Encontrar grupos de estudo | - Começar a construir networking                       | 
 | - Descobrir eventos e atividades extracurriculares | - Receber dicas de veteranos | - Entender como o mercado de trabalho funciona         |
 
-### 😰 Dores e Frustrações
-
+### Dores e Frustrações
 - Dificuldade em conhecer pessoas fora do círculo imediato
 - Insegurança ao perguntar dúvidas diretamente para professores
 - Sensação de que informações importantes circulam apenas entre grupos específicos
 - Falta de um espaço estruturado para trocar experiências acadêmicas
 - Medo de se expor em ambientes muito formais
 
-### 🧠 Habilidades
-
+### Habilidades
 - Nativa digital
 - Alto uso de redes sociais
 - Confortável com ambientes baseados em feed
 - Familiaridade com interação por comentários, curtidas e mensagens
 - Pouca experiência com comunicação acadêmica formal
 
-### 📋 Tarefas
-
+### Tarefas
 | Tarefa                       | Frequência | Importância | Duração  |
 | ---------------------------- | ---------- | ----------- | -------- |
 | Assistir aulas presenciais   | Diária     | Alta        | 3–5h     |
@@ -69,8 +64,7 @@
 | Participar de eventos        | Mensal     | Média       | 2–4h     |
 | Interagir em grupos digitais | Diária     | Alta        | Contínua |
 
-### 📋 Tarefas Relacionadas à Plataforma
-
+### Tarefas Relacionadas à Plataforma
 | Situação                      | Frequência | Objetivo            |
 | ----------------------------- | ---------- | ------------------- |
 | Procurar grupo de estudo      | Semanal    | Melhorar desempenho |
@@ -79,44 +73,57 @@
 | Interagir em discussões       | Diária     | Pertencimento       |
 | Explorar perfis de colegas    | Ocasional  | Networking          |
 
-### 👥 Relacionamentos
-
+### Relacionamentos
 - Colegas da mesma turma
 - Estudantes de outros semestres
 - Representantes de classe
 - Centros acadêmicos
 - Professores acessíveis
 
-### 🛠 Requisitos para a Rede Social
-
+### Requisitos para a Rede Social
 - Feed organizado por curso ou interesse
 - Espaço seguro para dúvidas acadêmicas
 - Sistema de interação simples (comentários, reações)
 - Descoberta de eventos e projetos
 - Perfis que mostrem interesses e cursos
 
-### 💭 Expectativas
-
+### Expectativas
 Ana espera que a plataforma:
-
 - Seja parecida com redes sociais que já utiliza
 - Ajude a conhecer pessoas novas
 - Facilite trocas acadêmicas informais
 - Crie senso de comunidade
 - Torne o ambiente universitário menos intimidador
 
-### 📱 Comportamento Digital
-
+### Comportamento Digital
 - Usa o celular como principal meio de acesso
 - Interage mais por comentários do que por mensagens formais
 - Prefere ambientes visuais simples e familiares
 - Valoriza rapidez na resposta
 
-<br>
-
 ## 💼 Perfil 2 — Estudante Trabalhador (Veterano)
 
 ### 👤 Identidade
+<table>
+  <tr>
+    <td valign="top">
+      <img width="300" height="400" alt="ChatGPT Image 12 de fev  de 2026, 10_51_14" src="https://github.com/user-attachments/assets/82a775fa-f6ca-4147-aced-f6a08981ca15" />
+    </td>
+    <td valign="top">
+      <strong>Nome:</strong> Lucas Silva Maciel<br>
+      <strong>Idade:</strong> 24 anos<br>
+      <strong>Curso:</strong> Ciência da Computação<br>
+      <strong>Modalidade:</strong> Presencial<br>
+      <strong>Estado civil:</strong> Solteiro<br>
+      <strong>Renda familiar:</strong> Classe média-baixa<br>
+      <strong>Mora com:</strong> Mãe<br>
+      <strong>ituação profissional:</strong> Estagiário em empresa de tecnologia<br>
+      <strong>Tempo de deslocamento diário:</strong> Aproximadamente 2 horas<br>
+      <strong>Status:</strong> Persona Secundária - Representa estudantes veteranos que conciliam trabalho e graduação, com foco em eficiência, produtividade e consolidação profissional<br>
+      <strong>Justificativa:</strong> Estudantes trabalhadores possuem menor disponibilidade de tempo e maior maturidade acadêmica. Diferentemente dos ingressantes, buscam otimização de interações, acesso rápido a informações relevantes e oportunidades que impactem diretamente sua formação e carreira. Além disso, estão em fase de desenvolvimento de TCC e consolidação profissional, o que gera necessidades específicas.<br>
+    </td>
+  </tr>
+</table>
 
 <img width="300" height="400" alt="ChatGPT Image 12 de fev  de 2026, 10_51_14" src="https://github.com/user-attachments/assets/82a775fa-f6ca-4147-aced-f6a08981ca15" />
 

@@ -11,7 +11,7 @@
 
 <br>
 
-## Perfil 1 — Ingressante Presencial
+## Perfil 1 — Estudante Calouro Presencial
 ### Identidade
 <table>
   <tr>
@@ -101,9 +101,8 @@ Ana espera que a plataforma:
 - Prefere ambientes visuais simples e familiares
 - Valoriza rapidez na resposta
 
-## 💼 Perfil 2 — Estudante Trabalhador (Veterano)
-
-### 👤 Identidade
+## Perfil 2 — Estudante Veterano Trabalhador
+### Identidade
 <table>
   <tr>
     <td valign="top">
@@ -124,29 +123,6 @@ Ana espera que a plataforma:
     </td>
   </tr>
 </table>
-
-<img width="300" height="400" alt="ChatGPT Image 12 de fev  de 2026, 10_51_14" src="https://github.com/user-attachments/assets/82a775fa-f6ca-4147-aced-f6a08981ca15" />
-
-- **Nome:** Lucas Silva Maciel
-- **Idade:** 24 anos
-- **Curso:** Ciência da Computação
-- **Modalidade:** Presencial
-- **Semestre:** 7º semestre
-- **Estado civil:** Solteiro
-- **Renda familiar:** Classe média-baixa
-- **Mora com:** Mãe
-- **Situação profissional:** Estagiário em empresa de tecnologia
-- **Tempo de deslocamento diário:** Aproximadamente 2 horas
-
-### 📌 Status
-
-**Persona Secundária**
-
-→ Representa estudantes veteranos que conciliam trabalho e graduação, com foco em eficiência, produtividade e consolidação profissional.
-
-**Justificativa:**
-
-Estudantes trabalhadores possuem menor disponibilidade de tempo e maior maturidade acadêmica. Diferentemente dos ingressantes, buscam otimização de interações, acesso rápido a informações relevantes e oportunidades que impactem diretamente sua formação e carreira. Além disso, estão em fase de desenvolvimento de TCC e consolidação profissional, o que gera necessidades específicas.
 
 ### Objetivos
 | Acadêmicos                                         | Sociais                                        | Profissionais                                             |
@@ -333,9 +309,116 @@ Lucas espera que a plataforma:
 - Conexão entre pessoas
 &nbsp;&nbsp;&nbsp;&nbsp;A plataforma deve reduzir barreiras sociais e facilitar interações acadêmicas informais.
 
-## 💼 Lucas Silva Maciel — Estudante Trabalhador (Veterano)
-
+## Mapa de Empatia de Lucas Silva Maciel
 > Mapa construído a partir de simulação de entrevista semiestruturada com estudante do 7º semestre que concilia trabalho e graduação presencial.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>👀 O que Lucas vê?</strong><br><br>
+      - Rotina corrida entre trabalho e faculdade<br>
+      - Colegas mais novos pedindo ajuda técnica<br>
+      - Grupos digitais com muita informação repetida<br>
+      - Divulgação dispersa de vagas, eventos e projetos<br>
+      - Outros alunos também sobrecarregados no final do curso<br>
+      - Professores cobrando entregas de TCC<br><br>
+      <strong>📌 Contexto:</strong><br>
+      Lucas percebe a universidade como um ambiente produtivo, mas pouco eficiente em termos de organização informal e troca estruturada de conhecimento.
+    </td>
+    <td valign="top" width="50%">
+      <strong>👂 O que Lucas ouve?</strong><br><br>
+      - “Você já começou o TCC?”<br>
+      - “Tem estágio novo abrindo.”<br>
+      - “Consegue me ajudar com esse código?”<br>
+      - “O prazo da banca já saiu?”<br>
+      - Conversas sobre mercado de trabalho e efetivação<br><br>
+      <strong>📌 Influência:</strong><br>
+      Grande parte das informações relevantes chega de maneira informal, muitas vezes tarde demais ou misturada com conteúdos irrelevantes.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🗣 O que Lucas diz e faz?</strong><br><br>
+      <strong>O que ele diz:</strong><br>
+      - “Não tenho tempo para ficar procurando informação.”<br>
+      - “Se for direto ao ponto, eu uso.”<br>
+      - “Seria bom divulgar meu questionário para mais alunos.”<br>
+      - “Queria um lugar para compartilhar conteúdo técnico.”<br><br>
+      <strong>O que ele faz:</strong><br>
+      - Filtra rapidamente conteúdos<br>
+      - Ignora notificações irrelevantes<br>
+      - Responde dúvidas quando o tema é técnico<br>
+      - Pesquisa referências online para o TCC<br>
+      - Compartilha links e materiais em grupos específicos<br><br>
+      <strong>📌 Comportamento:</strong><br>
+      Lucas é objetivo, pragmático e valoriza eficiência. Ele interage quando vê valor claro na troca.
+    </td>
+    <td valign="top" width="50%">
+      <strong>💭 O que Lucas pensa e sente?</strong><br><br>
+      <strong>Pensamentos:</strong><br>
+      - “Preciso otimizar meu tempo.”<br>
+      - “Quero terminar essa fase bem.”<br>
+      - “Preciso de dados suficientes para o TCC.”<br>
+      - “Preciso me destacar profissionalmente.”<br><br>
+      <strong>Sentimentos:</strong><br>
+      - Pressão acadêmica<br>
+      - Cansaço<br>
+      - Foco<br>
+      - Responsabilidade<br>
+      - Motivação para concluir o curso<br><br>
+      <strong>Expectativas sobre a rede social:</strong><br>
+      - Filtros eficientes<br>
+      - Espaço para divulgar pesquisas e questionários<br>
+      - Interações técnicas produtivas<br>
+      - Conteúdos relevantes segmentados por área<br>
+      - Networking útil
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>😰 Dores</strong><br><br>
+      - Excesso de ruído informacional<br>
+      - Falta de tempo para explorar conteúdos longos<br>
+      - Dificuldade em encontrar rapidamente respostas específicas<br>
+      - Baixa participação em pesquisas acadêmicas<br>
+      - Falta de integração entre alunos de diferentes semestres técnicos<br><br>
+      <strong>📌 Dor central:</strong><br>
+      Falta de eficiência e segmentação na troca acadêmica e profissional.
+    </td>
+    <td valign="top" width="50%">
+      <strong>🎁 Ganhos</strong><br><br>
+      - Economia de tempo<br>
+      - Divulgação facilitada de questionários do TCC<br>
+      - Respostas técnicas rápidas<br>
+      - Ampliação de networking profissional<br>
+      - Consolidação da identidade acadêmica<br>
+      - Reconhecimento como aluno experiente<br><br>
+      <strong>📌 Ganho principal:</strong><br>
+      Eficiência + produtividade + fortalecimento acadêmico-profissional.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>🎯 Insight Principal do Mapa</h3>
+
+Lucas não busca pertencimento.<br><br>
+
+Ele busca:<br><br>
+
+✔ Otimização<br>
+✔ Segmentação<br>
+✔ Utilidade prática<br>
+✔ Contribuição técnica<br>
+✔ Apoio no desenvolvimento do TCC<br><br>
+
+A plataforma deve permitir interações mais direcionadas, técnicas e produtivas, com recursos que auxiliem na pesquisa acadêmica e networking profissional.
 
 ### 👀 O que Lucas vê?
 

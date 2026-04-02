@@ -630,34 +630,27 @@ A aplicação atua como espaço complementar aos sistemas institucionais formais
 
 # Jornadas dos Usuários
 
-## 🎓 Jornada — Ana Beatriz Cavalcante (Ingressante)
+## 🎓 Jornada de Ana Beatriz Cavalcante (Ingressante)
 &nbsp;&nbsp;&nbsp;&nbsp;Ana está no início da faculdade e ainda se sente deslocada. Apesar de frequentar as aulas diariamente, ela percebe que os colegas já começam a formar grupos e sente dificuldade em se aproximar. Tem receio de parecer desinformada e acaba participando pouco das conversas. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Um dia, ouve colegas comentando sobre uma rede social acadêmica da instituição. Curiosa e buscando uma forma menos intimidadora de se aproximar das pessoas, decide se cadastrar. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Nos primeiros dias, apenas observa as interações. Vê alunos comentando sobre disciplinas, compartilhando experiências e divulgando eventos. Em uma dessas publicações, descobre que haverá uma festa organizada por alunos do seu curso. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Ela decide comparecer. Ao chegar, reconhece alguns rostos que já havia visto na plataforma. A conversa flui com mais naturalidade porque já existia uma referência prévia. Ela não está mais totalmente deslocada. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Nas semanas seguintes, começa a interagir mais tanto presencialmente quanto na rede. Participa de um grupo de estudo que conheceu por meio da plataforma e passa a se sentir parte da universidade. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;No final do semestre, Ana percebe que: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;No final do semestre, Ana percebe que:
 - Construiu novas amizades
 - Participou de eventos que antes nem saberia que existiam
 - Está mais segura para falar em sala
 - Sente-se integrada ao ambiente acadêmico
-<br> &nbsp;&nbsp;&nbsp;&nbsp;Ela continua utilizando a plataforma, mas agora não por insegurança — e sim porque faz parte da sua rotina social e acadêmica.
+&nbsp;&nbsp;&nbsp;&nbsp;Ela continua utilizando a plataforma, mas agora não por insegurança — e sim porque faz parte da sua rotina social e acadêmica.
 
-## 💼 Jornada — Lucas Silva Maciel (Estudante Trabalhador)
-
-Lucas está no sétimo semestre e conciliando trabalho e faculdade. Com o início do TCC, sente pressão para definir metodologia e coletar dados suficientes. Ele sabe que precisa alcançar muitos estudantes, mas percebe que divulgar sua pesquisa apenas em grupos informais não é suficiente.
-
-Ao saber da rede social acadêmica, decide utilizá-la como meio de ampliar seu alcance. Publica informações sobre seu projeto e começa a interagir com alunos de diferentes semestres.
-
-Aos poucos, recebe respostas ao questionário e sugestões que enriquecem sua pesquisa. Durante essas interações, conhece um estudante que já passou por processo semelhante e que compartilha experiências importantes.
-
-Com a coleta de dados concluída, Lucas avança na produção do TCC com mais segurança. Em uma conversa iniciada na plataforma, é indicado para uma oportunidade profissional na área.
-
-Ao final do curso, Lucas percebe que:
-
+## 💼 Jornada de Lucas Silva Maciel (Estudante Trabalhador)
+&nbsp;&nbsp;&nbsp;&nbsp;Lucas está no sétimo semestre e conciliando trabalho e faculdade. Com o início do TCC, sente pressão para definir metodologia e coletar dados suficientes. Ele sabe que precisa alcançar muitos estudantes, mas percebe que divulgar sua pesquisa apenas em grupos informais não é suficiente.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ao saber da rede social acadêmica, decide utilizá-la como meio de ampliar seu alcance. Publica informações sobre seu projeto e começa a interagir com alunos de diferentes semestres.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Aos poucos, recebe respostas ao questionário e sugestões que enriquecem sua pesquisa. Durante essas interações, conhece um estudante que já passou por processo semelhante e que compartilha experiências importantes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Com a coleta de dados concluída, Lucas avança na produção do TCC com mais segurança. Em uma conversa iniciada na plataforma, é indicado para uma oportunidade profissional na área.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ao final do curso, Lucas percebe que:
 - Conseguiu finalizar o TCC dentro do prazo
 - Ampliou sua rede de contatos
 - Ganhou visibilidade como aluno experiente
 - Construiu conexões úteis para o mercado
-
-Ele pode até reduzir o uso da plataforma após a formatura, mas reconhece que ela foi decisiva em um momento crítico da sua trajetória acadêmica.
+&nbsp;&nbsp;&nbsp;&nbsp;Ele pode até reduzir o uso da plataforma após a formatura, mas reconhece que ela foi decisiva em um momento crítico da sua trajetória acadêmica.

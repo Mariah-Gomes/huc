@@ -263,6 +263,123 @@ Lucas espera que a plataforma:
 
 > Mapa construído a partir de simulação de entrevista semiestruturada com estudante recém-ingressa no ensino superior presencial.
 
+<h2>Mapa de Empatia — Ana Beatriz Cavalcante</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>👀 O que Ana vê?</strong><br><br>
+      - Um campus grande e cheio de pessoas desconhecidas<br>
+      - Grupos já formados entre colegas<br>
+      - Eventos, atléticas e centros acadêmicos divulgando atividades<br>
+      - Professores com perfis e estilos diferentes<br>
+      - Informações circulando principalmente por redes sociais e grupos informais<br>
+      - Pouca interação entre alunos de diferentes semestres<br><br>
+
+      <strong>📌 Contexto:</strong><br>
+      Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.
+    </td>
+    <td valign="top" width="50%">
+      <strong>👂 O que Ana ouve?</strong><br><br>
+      - “Você já conhece alguém do terceiro semestre?”<br>
+      - “Tem uma palestra legal hoje, viu no Instagram?”<br>
+      - “Esse professor é tranquilo, pode perguntar.”<br>
+      - “Tem um grupo só para estágio.”<br>
+      - Conversas sobre networking e empresas juniores<br><br>
+
+      <strong>📌 Influência:</strong><br>
+      Grande parte das oportunidades e informações chegam por meio de boca a boca ou redes informais.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🗣 O que Ana diz e faz?</strong><br><br>
+
+      <strong>O que ela diz:</strong><br>
+      - “Queria conhecer mais gente do meu curso.”<br>
+      - “Tenho vergonha de perguntar na sala.”<br>
+      - “Seria bom ter um lugar só para falar de faculdade.”<br><br>
+
+      <strong>O que ela faz:</strong><br>
+      - Entra em vários grupos digitais<br>
+      - Segue perfis acadêmicos no Instagram<br>
+      - Pergunta dúvidas no privado antes de perguntar em público<br>
+      - Observa interações antes de participar<br><br>
+
+      <strong>📌 Comportamento:</strong><br>
+      Ana é ativa digitalmente, mas cautelosa socialmente.
+    </td>
+    <td valign="top" width="50%">
+      <strong>💭 O que Ana pensa e sente?</strong><br><br>
+
+      <strong>Pensamentos:</strong><br>
+      - “Será que estou aproveitando a faculdade como deveria?”<br>
+      - “Preciso me enturmar mais.”<br>
+      - “Quero participar, mas sem me expor demais.”<br><br>
+
+      <strong>Sentimentos:</strong><br>
+      - Entusiasmo com o início da graduação<br>
+      - Insegurança social<br>
+      - Curiosidade<br>
+      - Desejo de pertencimento<br><br>
+
+      <strong>Expectativas sobre a rede social:</strong><br>
+      - Ambiente acolhedor<br>
+      - Comunicação informal, mas respeitosa<br>
+      - Interações simples (curtir, comentar, reagir)<br>
+      - Espaço onde possa participar sem julgamento
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>😰 Dores</strong><br><br>
+      - Dificuldade de se conectar com alunos além da própria sala<br>
+      - Medo de julgamento ao expor dúvidas<br>
+      - Sensação de exclusão de conversas paralelas<br>
+      - Falta de um espaço acadêmico informal estruturado<br>
+      - Barreiras sociais iniciais<br><br>
+
+      <strong>📌 Dor central:</strong><br>
+      Falta de integração estruturada dentro do ambiente universitário.
+    </td>
+    <td valign="top" width="50%">
+      <strong>🎁 Ganhos</strong><br><br>
+      - Sentir-se parte da comunidade acadêmica<br>
+      - Ampliar círculo social<br>
+      - Acessar oportunidades de forma mais democrática<br>
+      - Tirar dúvidas com menos pressão<br>
+      - Descobrir projetos, eventos e grupos de interesse<br>
+      - Construir identidade acadêmica desde o início<br><br>
+
+      <strong>📌 Ganho principal:</strong><br>
+      Pertencimento + conexão + visibilidade acadêmica.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>🎯 Insight Principal do Mapa</h3>
+
+Ana não precisa apenas de informação.<br><br>
+
+Ela precisa de:<br><br>
+
+✔ Integração<br>
+✔ Ambiente seguro<br>
+✔ Descoberta de oportunidades<br>
+✔ Conexão entre pessoas<br><br>
+
+A plataforma deve reduzir barreiras sociais e facilitar interações acadêmicas informais.
+
+
+
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -273,7 +390,7 @@ Lucas espera que a plataforma:
       - Professores com perfis e estilos diferentes<br>
       - Informações circulando principalmente por redes sociais e grupos informais<br>
       - Pouca interação entre alunos de diferentes semestres<br><br>
-      <strong>Contexto:</strong>strong> Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.<br>
+      <strong>Contexto:</strong> Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.<br>
     </td>
     <td valign="top" width="50%">
       <strong>O que ouve?</strong><br><br>

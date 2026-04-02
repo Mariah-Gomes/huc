@@ -141,49 +141,30 @@ Ana espera que a plataforma:
 
 Estudantes trabalhadores possuem menor disponibilidade de tempo e maior maturidade acadêmica. Diferentemente dos ingressantes, buscam otimização de interações, acesso rápido a informações relevantes e oportunidades que impactem diretamente sua formação e carreira. Além disso, estão em fase de desenvolvimento de TCC e consolidação profissional, o que gera necessidades específicas.
 
-### 🎯 Objetivos
+### Objetivos
+| Acadêmicos                                         | Sociais                                        | Profissionais                                             |
+|----------------------------------------------------| -----------------------------------------------|-----------------------------------------------------------|
+| - Concluir a graduação dentro do prazo             | - Manter contato com colegas estratégicos      | - Ser efetivado na empresa                                |
+| - Desenvolver e finalizar o TCC com qualidade      | - Ajudar alunos de semestres anteriores        | - Ampliar networking na área de tecnologia                |
+| - Manter desempenho satisfatório mesmo trabalhando | - Participar de discussões técnicas relevantes | - Encontrar oportunidades compatíveis com sua experiência |
 
-#### Acadêmicos
-
-- Concluir a graduação dentro do prazo
-- Desenvolver e finalizar o TCC com qualidade
-- Manter desempenho satisfatório mesmo trabalhando
-
-#### Sociais
-
-- Manter contato com colegas estratégicos
-- Ajudar alunos de semestres anteriores
-- Participar de discussões técnicas relevantes
-
-#### Profissionais
-
-- Ser efetivado na empresa
-- Ampliar networking na área de tecnologia
-- Encontrar oportunidades compatíveis com sua experiência
-
-### 😰 Dores e Frustrações
-
+### Dores e Frustrações
 - Falta de tempo para interações longas
 - Excesso de informações irrelevantes
 - Dificuldade em encontrar respostas específicas rapidamente
 - Cansaço físico e mental
 - Dificuldade em coletar dados para o TCC
-- Pouca integração entre alunos de diferentes turmas técnicas
+- Pouca integração entre alunos de diferentes turmas técnicas <br><br>
+**Dor central:** Falta de eficiência na troca acadêmica e profissional.
 
-📌 Dor central:
-
-Falta de eficiência na troca acadêmica e profissional.
-
-### 🧠 Habilidades
-
+### Habilidades
 - Forte domínio técnico (programação, lógica, Git, VSCode)
 - Autonomia na busca de soluções
 - Boa capacidade de explicar conteúdos
 - Experiência prática de mercado
 - Alta familiaridade com ferramentas digitais
 
-### 📋 Tarefas
-
+### Tarefas
 | Tarefa              | Frequência    | Importância | Duração |
 | ------------------- | ------------- | ----------- | ------- |
 | Trabalhar           | 5x por semana | Muito Alta  | 6–8h    |
@@ -192,8 +173,7 @@ Falta de eficiência na troca acadêmica e profissional.
 | Desenvolver TCC     | Semanal       | Muito Alta  | 3–5h    |
 | Resolver atividades | Diária        | Média       | 1–2h    |
 
-### 📋 Tarefas Relacionadas à Plataforma
-
+### Tarefas Relacionadas à Plataforma
 | Situação                            | Frequência | Objetivo                           |
 | ----------------------------------- | ---------- | ---------------------------------- |
 | Responder dúvidas técnicas          | Semanal    | Contribuir e reforçar conhecimento |
@@ -202,16 +182,14 @@ Falta de eficiência na troca acadêmica e profissional.
 | Filtrar discussões relevantes       | Diária     | Eficiência                         |
 | Conectar-se com alunos da área      | Ocasional  | Networking                         |
 
-### 👥 Relacionamentos
-
+### Relacionamentos
 - Colegas do mesmo semestre
 - Estagiários e profissionais da área
 - Orientador de TCC
 - Professores técnicos
 - Alunos iniciantes que pedem ajuda
 
-### 🛠 Requisitos para a Rede Social
-
+### Requisitos para a Rede Social
 - Feed com filtros avançados
 - Busca eficiente por palavras-chave
 - Possibilidade de salvar publicações
@@ -220,10 +198,8 @@ Falta de eficiência na troca acadêmica e profissional.
 - Interação rápida e objetiva
 - Baixo ruído informacional
 
-### 💭 Expectativas
-
+### Expectativas
 Lucas espera que a plataforma:
-
 - Otimize seu tempo
 - Facilite coleta de dados para o TCC
 - Permita divulgar questionários e pesquisas
@@ -231,17 +207,14 @@ Lucas espera que a plataforma:
 - Seja útil profissionalmente
 - Permita compartilhar conhecimento técnico
 
-### 📱 Comportamento Digital
-
+### Comportamento Digital
 - Usa principalmente pelo celular durante deslocamento
 - Prefere interações objetivas
 - Valoriza organização e filtros
 - Não interage com conteúdos irrelevantes
 - Participa mais quando o tema é técnico ou profissional
 
-<br>
-
-### 🎯 Diferença estratégica entre as duas personas
+## Diferença estratégica entre as duas personas
 
 | Ana (Ingressante)     | Lucas (Veterano Trabalhador) |
 | --------------------- | ---------------------------- |
@@ -251,19 +224,9 @@ Lucas espera que a plataforma:
 | Insegurança           | Autonomia                    |
 | Descoberta            | Consolidação                 |
 
-<br>
-
----
-
-<br>
-
 # Mapas de Empatia
-
-## 🎓 Ana Beatriz Cavalcante — Ingressante Presencial
-
+## Mapas de Empatia de Ana Beatriz Cavalcante (Ingressante Presencial)
 > Mapa construído a partir de simulação de entrevista semiestruturada com estudante recém-ingressa no ensino superior presencial.
-
-<h2>Mapa de Empatia — Ana Beatriz Cavalcante</h2>
 
 <table>
   <tr>
@@ -354,169 +317,14 @@ Lucas espera que a plataforma:
 
 <br>
 
-<h3>🎯 Insight Principal do Mapa</h3>
-
-Ana não precisa apenas de informação.<br><br>
-
-Ela precisa de:<br><br>
-
-✔ Integração<br>
-✔ Ambiente seguro<br>
-✔ Descoberta de oportunidades<br>
-✔ Conexão entre pessoas<br><br>
-
-A plataforma deve reduzir barreiras sociais e facilitar interações acadêmicas informais.
-
-
-
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>O que vê?</strong><br><br>
-      - Um campus grande e cheio de pessoas desconhecidas<br>
-      - Grupos já formados entre colegas<br>
-      - Eventos, atléticas e centros acadêmicos divulgando atividades<br>
-      - Professores com perfis e estilos diferentes<br>
-      - Informações circulando principalmente por redes sociais e grupos informais<br>
-      - Pouca interação entre alunos de diferentes semestres<br><br>
-      <strong>Contexto:</strong> Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.<br>
-    </td>
-    <td valign="top" width="50%">
-      <strong>O que ouve?</strong><br><br>
-      - Recomendações de veteranos<br>
-      - Comentários sobre matérias e professores<br>
-      - Dicas de eventos e oportunidades<br>
-      - Reclamações sobre falta de centralização
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>O que fala e faz?</strong><br><br>
-      - Procura ajuda em grupos e chats<br>
-      - Pergunta sobre disciplinas e trabalhos<br>
-      - Tenta acompanhar a rotina acadêmica<br>
-      - Compartilha informações com colegas
-    </td>
-    <td valign="top" width="50%">
-      <strong>O que pensa e sente?</strong><br><br>
-      - Quer se integrar melhor ao ambiente universitário<br>
-      - Sente insegurança por não conhecer bem a dinâmica da faculdade<br>
-      - Busca apoio e acolhimento<br>
-      - Quer praticidade para acessar informações úteis
-    </td>
-  </tr>
-</table>
-
-
-### 👀 O que Ana vê?
-
-- Um campus grande e cheio de pessoas desconhecidas
-- Grupos já formados entre colegas
-- Eventos, atléticas e centros acadêmicos divulgando atividades
-- Professores com perfis e estilos diferentes
-- Informações circulando principalmente por redes sociais e grupos informais
-- Pouca interação entre alunos de diferentes semestres
-
-📌 **Contexto:**
-
-Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.
-
-### 👂 O que Ana ouve?
-
-- “Você já conhece alguém do terceiro semestre?”
-- “Tem uma palestra legal hoje, viu no Instagram?”
-- “Esse professor é tranquilo, pode perguntar.”
-- “Tem um grupo só para estágio.”
-- Conversas sobre networking e empresas juniores
-
-📌 **Influência:**
-
-Grande parte das oportunidades e informações chegam por meio de boca a boca ou redes informais.
-
-### 🗣 O que Ana diz e faz?
-
-#### O que ela diz:
-
-- “Queria conhecer mais gente do meu curso.”
-- “Tenho vergonha de perguntar na sala.”
-- “Seria bom ter um lugar só para falar de faculdade.”
-
-#### O que ela faz:
-
-- Entra em vários grupos digitais
-- Segue perfis acadêmicos no Instagram
-- Pergunta dúvidas no privado antes de perguntar em público
-- Observa interações antes de participar
-
-📌 **Comportamento:**
-
-Ana é ativa digitalmente, mas cautelosa socialmente.
-
-### 💭 O que Ana pensa e sente?
-
-#### Pensamentos:
-
-- “Será que estou aproveitando a faculdade como deveria?”
-- “Preciso me enturmar mais.”
-- “Quero participar, mas sem me expor demais.”
-
-#### Sentimentos:
-
-- Entusiasmo com o início da graduação
-- Insegurança social
-- Curiosidade
-- Desejo de pertencimento
-
-#### Expectativas sobre a rede social:
-
-- Ambiente acolhedor
-- Comunicação informal, mas respeitosa
-- Interações simples (curtir, comentar, reagir)
-- Espaço onde possa participar sem julgamento
-
-### 😰 Dores
-
-- Dificuldade de se conectar com alunos além da própria sala
-- Medo de julgamento ao expor dúvidas
-- Sensação de exclusão de conversas paralelas
-- Falta de um espaço acadêmico informal estruturado
-- Barreiras sociais iniciais
-
-📌 **Dor central:**
-
-Falta de integração estruturada dentro do ambiente universitário.
-
-### 🎁 Ganhos
-
-- Sentir-se parte da comunidade acadêmica
-- Ampliar círculo social
-- Acessar oportunidades de forma mais democrática
-- Tirar dúvidas com menos pressão
-- Descobrir projetos, eventos e grupos de interesse
-- Construir identidade acadêmica desde o início
-
-📌 **Ganho principal:**
-
-Pertencimento + conexão + visibilidade acadêmica.
-
-### 🎯 Insight Principal do Mapa
-
-Ana não precisa apenas de informação.
-
-Ela precisa de:
-
-✔ Integração
-
-✔ Ambiente seguro
-
-✔ Descoberta de oportunidades
-
-✔ Conexão entre pessoas
-
-A plataforma deve reduzir barreiras sociais e facilitar interações acadêmicas informais.
-
-<br>
+### Insight Principal do Mapa
+&nbsp;&nbsp;&nbsp;&nbsp;Ana não precisa apenas de informação.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ela precisa de:<br>
+- Integração
+- Ambiente seguro
+- Descoberta de oportunidades<br>
+- Conexão entre pessoas
+&nbsp;&nbsp;&nbsp;&nbsp;A plataforma deve reduzir barreiras sociais e facilitar interações acadêmicas informais.
 
 ## 💼 Lucas Silva Maciel — Estudante Trabalhador (Veterano)
 

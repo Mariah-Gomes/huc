@@ -16,27 +16,6 @@
 ### 👤 Identidade
 <table>
   <tr>
-    <img width="300" height="400" alt="ChatGPT Image 11 de fev  de 2026, 19_26_30" src="https://github.com/user-attachments/assets/61903c81-114a-4141-9af1-80583168b076" />
-    <td valign="top" width="50%">
-
-- **Nome:** Ana Beatriz Cavalcante
-- **Idade:** 18 anos
-- **Curso:** Administração
-- **Modalidade:** Presencial
-- **Estado civil:** Solteira
-- **Renda familiar:** Classe média (pais custeiam a mensalidade)
-- **Mora com:** Pais e irmão mais novo
-- **Origem escolar:** Ensino médio particular
-- **Cidade:** Região metropolitana
-
-    </td>
-  </tr>
-</table>
-
-aaaaaaaaaaaaaa
-
-<table>
-  <tr>
     <td valign="top">
       <img width="300" height="400" alt="Persona Ana Beatriz" src="https://github.com/user-attachments/assets/61903c81-114a-4141-9af1-80583168b076" />
     </td>
@@ -50,6 +29,8 @@ aaaaaaaaaaaaaa
       <strong>Mora com:</strong> Pais e irmão mais novo<br>
       <strong>Origem escolar:</strong> Ensino médio particular<br>
       <strong>Cidade:</strong> Região metropolitana
+      <strong>Status:</strong> Persona Primária - Representa estudantes recém-ingressos no ensino superior presencial, que buscam integração social e acadêmica no novo ambiente universitário
+      <strong>Justificativa:</strong> Calouros vivenciam um momento de transição marcado por insegurança e desejo de pertencimento. São usuários com alta necessidade de conexão, orientação informal e interação com colegas e veteranos — o que os torna público estratégico para uma rede social acadêmica.
     </td>
   </tr>
 </table>

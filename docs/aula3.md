@@ -267,10 +267,13 @@ Lucas espera que a plataforma:
   <tr>
     <td valign="top" width="50%">
       <strong>O que vê?</strong><br><br>
-      - Ambientes e grupos da faculdade dispersos<br>
-      - Informações espalhadas entre diferentes canais<br>
-      - Dificuldade para localizar conteúdos relevantes<br>
-      - Colegas compartilhando dúvidas e experiências
+      - Um campus grande e cheio de pessoas desconhecidas
+      - Grupos já formados entre colegas
+      - Eventos, atléticas e centros acadêmicos divulgando atividades
+      - Professores com perfis e estilos diferentes
+      - Informações circulando principalmente por redes sociais e grupos informais
+      - Pouca interação entre alunos de diferentes semestres
+      **Contexto:** Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.
     </td>
     <td valign="top" width="50%">
       <strong>O que ouve?</strong><br><br>

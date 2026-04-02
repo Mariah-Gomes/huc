@@ -1,4 +1,4 @@
-- [Pesquisa](./pesquisa.pdf)
+
 
 # 1. Identificação de Necessidades dos Usuários e Requisitos de IHC
 
@@ -18,7 +18,8 @@
 - **Nome do instrumento e objetivo de aplicação**  
   **Questionário on-line**.  
   O objetivo foi coletar dados de vários participantes de forma rápida, padronizada e quantitativa, permitindo identificar padrões de comportamento, dificuldades e preferências relacionados ao problema investigado.
-
+  Link para os resultados do questionário e perguntas: [Pesquisa](./pesquisa.pdf)
+  
 - **Explicar como aplicar**  
   O questionário deve ser aplicado por meio de formulário on-line, com perguntas claras, objetivas e organizadas em sequência lógica.  
   Primeiro, devem ser apresentados o objetivo da pesquisa e as condições de participação, destacando o anonimato das respostas. Em seguida, devem ser feitas perguntas gerais sobre o perfil do participante e, depois, perguntas voltadas às suas dificuldades, hábitos e percepções sobre o tema pesquisado.  

@@ -15,8 +15,6 @@
 
 # 3. Ferramentas de Coleta de Dados
 
-## 3.1 Questionário on-line
-
 - **Nome do instrumento e objetivo de aplicação**  
   **Questionário on-line**.  
   O objetivo foi coletar dados de vários participantes de forma rápida, padronizada e quantitativa, permitindo identificar padrões de comportamento, dificuldades e preferências relacionados ao problema investigado.

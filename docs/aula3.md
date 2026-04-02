@@ -28,9 +28,9 @@
       <strong>Renda familiar:</strong> Classe média (pais custeiam a mensalidade)<br>
       <strong>Mora com:</strong> Pais e irmão mais novo<br>
       <strong>Origem escolar:</strong> Ensino médio particular<br>
-      <strong>Cidade:</strong> Região metropolitana
-      <strong>Status:</strong> Persona Primária - Representa estudantes recém-ingressos no ensino superior presencial, que buscam integração social e acadêmica no novo ambiente universitário
-      <strong>Justificativa:</strong> Calouros vivenciam um momento de transição marcado por insegurança e desejo de pertencimento. São usuários com alta necessidade de conexão, orientação informal e interação com colegas e veteranos — o que os torna público estratégico para uma rede social acadêmica.
+      <strong>Cidade:</strong> Região metropolitana<br>
+      <strong>Status:</strong> Persona Primária - Representa estudantes recém-ingressos no ensino superior presencial, que buscam integração social e acadêmica no novo ambiente universitário<br>
+      <strong>Justificativa:</strong> Calouros vivenciam um momento de transição marcado por insegurança e desejo de pertencimento. São usuários com alta necessidade de conexão, orientação informal e interação com colegas e veteranos — o que os torna público estratégico para uma rede social acadêmica.<br>
     </td>
   </tr>
 </table>

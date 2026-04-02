@@ -490,20 +490,10 @@ Ele busca:
 
 A plataforma deve permitir interações mais direcionadas, técnicas e produtivas, com recursos que auxiliem na pesquisa acadêmica e networking profissional.
 
-<br>
-
----
-
-<br>
-
 # Contexto de Uso
-
-## 1️⃣ Ambiente de utilização do serviço
-
-A aplicação é utilizada por estudantes no ambiente institucional universitário, sendo acessada principalmente por meio de dispositivos digitais (smartphones e computadores), tanto dentro quanto fora da universidade.
-
+## Ambiente de utilização do serviço
+A aplicação é utilizada por estudantes no ambiente institucional universitário, sendo acessada principalmente por meio de dispositivos digitais (smartphones e computadores), tanto dentro quanto fora da universidade. <br>
 O uso ocorre em diferentes espaços e situações do cotidiano acadêmico, tais como:
-
 - Sala de aula (antes ou após as aulas)
 - Biblioteca
 - Áreas comuns do campus
@@ -512,14 +502,11 @@ O uso ocorre em diferentes espaços e situações do cotidiano acadêmico, tais 
 - Residência do estudante
 - Deslocamentos diários
 
-O acesso é predominantemente móvel, com interações rápidas e fragmentadas, especialmente em momentos de pausa ou transição entre atividades.
-
+O acesso é predominantemente móvel, com interações rápidas e fragmentadas, especialmente em momentos de pausa ou transição entre atividades.<br>
 A plataforma é utilizada de forma complementar aos sistemas institucionais formais, com foco em interação social-acadêmica.
 
-## 2️⃣ Contexto social
-
+## Contexto social
 O ambiente universitário é caracterizado por:
-
 - Diversidade de cursos e semestres
 - Relações hierárquicas (alunos, professores, coordenação)
 - Formação e consolidação de grupos sociais
@@ -527,13 +514,11 @@ O ambiente universitário é caracterizado por:
 - Forte presença de redes sociais digitais
 
 Para estudantes ingressantes, o contexto social envolve:
-
 - Desejo de pertencimento
 - Insegurança inicial
 - Busca por integração
 
 Para estudantes veteranos e trabalhadores, envolve:
-
 - Consolidação de relações acadêmicas
 - Busca por eficiência
 - Networking profissional
@@ -541,25 +526,19 @@ Para estudantes veteranos e trabalhadores, envolve:
 
 A rede social acadêmica atua como mediadora digital dessas interações, promovendo conexão entre diferentes perfis dentro da instituição.
 
-## 3️⃣ Contexto econômico
-
-O público da aplicação é composto majoritariamente por estudantes das classes média e média-baixa.
-
+## Contexto econômico
+O público da aplicação é composto majoritariamente por estudantes das classes média e média-baixa.<br>
 Aspectos relevantes incluem:
-
 - Dependência financeira parcial ou total da família (ingressantes)
 - Conciliação entre trabalho e estudo (veteranos)
 - Busca por oportunidades de estágio e efetivação
 - Sensibilidade a recursos que otimizem tempo e produtividade
 
-O uso ocorre frequentemente por meio de redes móveis (4G/5G), exigindo que a aplicação seja leve e responsiva.
-
+O uso ocorre frequentemente por meio de redes móveis (4G/5G), exigindo que a aplicação seja leve e responsiva. <br>
 O fator tempo é um recurso escasso, principalmente para estudantes trabalhadores.
 
-## 4️⃣ Contexto cultural
-
+## Contexto cultural
 A cultura universitária brasileira apresenta:
-
 - Valorização da socialização
 - Presença ativa de centros acadêmicos, atléticas e projetos
 - Uso intenso de WhatsApp e Instagram
@@ -567,17 +546,14 @@ A cultura universitária brasileira apresenta:
 - Troca informal de informações e oportunidades
 
 Além disso, há uma cultura crescente de:
-
 - Produção acadêmica (TCC e projetos)
 - Compartilhamento de vagas e networking
 - Participação em pesquisas e questionários
 
 A aplicação deve respeitar essa cultura informal, colaborativa e digitalmente conectada.
 
-## 5️⃣ Informações que o sistema deve conhecer antes da interação
-
+## Informações que o sistema deve conhecer antes da interação
 Para oferecer experiência personalizada e relevante, a plataforma deve armazenar informações como:
-
 - Curso
 - Semestre
 - Modalidade (presencial ou EAD)
@@ -587,16 +563,13 @@ Para oferecer experiência personalizada e relevante, a plataforma deve armazena
 - Histórico básico de interações
 
 Esses dados permitem:
-
 - Segmentação do feed
 - Recomendação de conteúdos e discussões relevantes
 - Sugestão de conexões acadêmicas e profissionais
 - Apoio à divulgação de pesquisas e eventos
 
-## 6️⃣ O que normalmente está acontecendo no ambiente durante a interação?
-
+## O que normalmente está acontecendo no ambiente durante a interação?
 Quando o usuário interage com a aplicação, normalmente:
-
 - Está em intervalo entre aulas
 - Está em deslocamento
 - Está no intervalo do trabalho
@@ -605,14 +578,12 @@ Quando o usuário interage com a aplicação, normalmente:
 - Está navegando simultaneamente em outras redes sociais
 
 O ambiente pode ser:
-
 - Movimentado e com ruído
 - Com atenção dividida
 - Com tempo limitado
 - Mentalmente desgastante
 
 Portanto, a aplicação deve:
-
 - Ser responsiva
 - Ter navegação intuitiva
 - Permitir interações rápidas
@@ -620,17 +591,13 @@ Portanto, a aplicação deve:
 - Reduzir ruído informacional
 - Adaptar-se a diferentes níveis de engajamento
 
-## 🎯 Síntese Geral do Contexto de Uso
-
-A rede social acadêmica será utilizada em um ambiente universitário dinâmico, socialmente diverso e digitalmente conectado, por estudantes em diferentes estágios da graduação — desde ingressantes em busca de integração até veteranos trabalhadores focados em produtividade e desenvolvimento do TCC.
-
-A aplicação atua como espaço complementar aos sistemas institucionais formais, promovendo interação social-acadêmica, troca de conhecimento, networking e apoio à produção acadêmica, principalmente por meio de dispositivos móveis e em contextos de uso fragmentado ao longo da rotina universitária.
-
-<br>
+## Síntese Geral do Contexto de Uso
+&nbsp;&nbsp;&nbsp;&nbsp;A rede social acadêmica será utilizada em um ambiente universitário dinâmico, socialmente diverso e digitalmente conectado, por estudantes em diferentes estágios da graduação — desde ingressantes em busca de integração até veteranos trabalhadores focados em produtividade e desenvolvimento do TCC.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;A aplicação atua como espaço complementar aos sistemas institucionais formais, promovendo interação social-acadêmica, troca de conhecimento, networking e apoio à produção acadêmica, principalmente por meio de dispositivos móveis e em contextos de uso fragmentado ao longo da rotina universitária.<br>
 
 # Jornadas dos Usuários
 
-## 🎓 Jornada de Ana Beatriz Cavalcante (Ingressante)
+## Jornada de Ana Beatriz Cavalcante (Ingressante)
 &nbsp;&nbsp;&nbsp;&nbsp;Ana está no início da faculdade e ainda se sente deslocada. Apesar de frequentar as aulas diariamente, ela percebe que os colegas já começam a formar grupos e sente dificuldade em se aproximar. Tem receio de parecer desinformada e acaba participando pouco das conversas. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Um dia, ouve colegas comentando sobre uma rede social acadêmica da instituição. Curiosa e buscando uma forma menos intimidadora de se aproximar das pessoas, decide se cadastrar. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Nos primeiros dias, apenas observa as interações. Vê alunos comentando sobre disciplinas, compartilhando experiências e divulgando eventos. Em uma dessas publicações, descobre que haverá uma festa organizada por alunos do seu curso. <br>
@@ -640,10 +607,10 @@ A aplicação atua como espaço complementar aos sistemas institucionais formais
 - Construiu novas amizades
 - Participou de eventos que antes nem saberia que existiam
 - Está mais segura para falar em sala
-- Sente-se integrada ao ambiente acadêmico
+- Sente-se integrada ao ambiente acadêmico<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Ela continua utilizando a plataforma, mas agora não por insegurança — e sim porque faz parte da sua rotina social e acadêmica.
 
-## 💼 Jornada de Lucas Silva Maciel (Estudante Trabalhador)
+## Jornada de Lucas Silva Maciel (Estudante Trabalhador)
 &nbsp;&nbsp;&nbsp;&nbsp;Lucas está no sétimo semestre e conciliando trabalho e faculdade. Com o início do TCC, sente pressão para definir metodologia e coletar dados suficientes. Ele sabe que precisa alcançar muitos estudantes, mas percebe que divulgar sua pesquisa apenas em grupos informais não é suficiente.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Ao saber da rede social acadêmica, decide utilizá-la como meio de ampliar seu alcance. Publica informações sobre seu projeto e começa a interagir com alunos de diferentes semestres.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Aos poucos, recebe respostas ao questionário e sugestões que enriquecem sua pesquisa. Durante essas interações, conhece um estudante que já passou por processo semelhante e que compartilha experiências importantes.<br>
@@ -652,5 +619,5 @@ A aplicação atua como espaço complementar aos sistemas institucionais formais
 - Conseguiu finalizar o TCC dentro do prazo
 - Ampliou sua rede de contatos
 - Ganhou visibilidade como aluno experiente
-- Construiu conexões úteis para o mercado
+- Construiu conexões úteis para o mercado<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Ele pode até reduzir o uso da plataforma após a formatura, mas reconhece que ela foi decisiva em um momento crítico da sua trajetória acadêmica.

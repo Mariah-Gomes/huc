@@ -272,8 +272,8 @@ Lucas espera que a plataforma:
       - Eventos, atléticas e centros acadêmicos divulgando atividades<br>
       - Professores com perfis e estilos diferentes<br>
       - Informações circulando principalmente por redes sociais e grupos informais<br>
-      - Pouca interação entre alunos de diferentes semestres<br>
-      **Contexto:** Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.<br>
+      - Pouca interação entre alunos de diferentes semestres<br><br>
+      <strong>Contexto:</strong>strong> Ana percebe a universidade como um ambiente rico em oportunidades, mas fragmentado socialmente.<br>
     </td>
     <td valign="top" width="50%">
       <strong>O que ouve?</strong><br><br>

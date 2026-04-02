@@ -632,16 +632,16 @@ A aplicação atua como espaço complementar aos sistemas institucionais formais
 
 ## 🎓 Jornada — Ana Beatriz Cavalcante (Ingressante)
 &nbsp;&nbsp;&nbsp;&nbsp;Ana está no início da faculdade e ainda se sente deslocada. Apesar de frequentar as aulas diariamente, ela percebe que os colegas já começam a formar grupos e sente dificuldade em se aproximar. Tem receio de parecer desinformada e acaba participando pouco das conversas. <br>
-Um dia, ouve colegas comentando sobre uma rede social acadêmica da instituição. Curiosa e buscando uma forma menos intimidadora de se aproximar das pessoas, decide se cadastrar. <br>
-Nos primeiros dias, apenas observa as interações. Vê alunos comentando sobre disciplinas, compartilhando experiências e divulgando eventos. Em uma dessas publicações, descobre que haverá uma festa organizada por alunos do seu curso. <br>
-Ela decide comparecer. Ao chegar, reconhece alguns rostos que já havia visto na plataforma. A conversa flui com mais naturalidade porque já existia uma referência prévia. Ela não está mais totalmente deslocada. <br>
-Nas semanas seguintes, começa a interagir mais tanto presencialmente quanto na rede. Participa de um grupo de estudo que conheceu por meio da plataforma e passa a se sentir parte da universidade. <br>
-No final do semestre, Ana percebe que: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Um dia, ouve colegas comentando sobre uma rede social acadêmica da instituição. Curiosa e buscando uma forma menos intimidadora de se aproximar das pessoas, decide se cadastrar. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Nos primeiros dias, apenas observa as interações. Vê alunos comentando sobre disciplinas, compartilhando experiências e divulgando eventos. Em uma dessas publicações, descobre que haverá uma festa organizada por alunos do seu curso. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ela decide comparecer. Ao chegar, reconhece alguns rostos que já havia visto na plataforma. A conversa flui com mais naturalidade porque já existia uma referência prévia. Ela não está mais totalmente deslocada. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Nas semanas seguintes, começa a interagir mais tanto presencialmente quanto na rede. Participa de um grupo de estudo que conheceu por meio da plataforma e passa a se sentir parte da universidade. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;No final do semestre, Ana percebe que: <br>
 - Construiu novas amizades
 - Participou de eventos que antes nem saberia que existiam
 - Está mais segura para falar em sala
 - Sente-se integrada ao ambiente acadêmico
-<br>Ela continua utilizando a plataforma, mas agora não por insegurança — e sim porque faz parte da sua rotina social e acadêmica.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;Ela continua utilizando a plataforma, mas agora não por insegurança — e sim porque faz parte da sua rotina social e acadêmica.
 
 ## 💼 Jornada — Lucas Silva Maciel (Estudante Trabalhador)
 

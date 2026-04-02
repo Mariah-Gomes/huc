@@ -35,38 +35,15 @@
   </tr>
 </table>
 
-
-
-### 📌 Status
-
-**Persona Primária**
-
-→ Representa estudantes recém-ingressos no ensino superior presencial, que buscam integração social e acadêmica no novo ambiente universitário.
-
-**Justificativa:**
-
-Calouros vivenciam um momento de transição marcado por insegurança e desejo de pertencimento. São usuários com alta necessidade de conexão, orientação informal e interação com colegas e veteranos — o que os torna público estratégico para uma rede social acadêmica.
-
 ### 🎯 Objetivos
 
-#### Sociais
+| Sociais                                            | Acadêmicos                   | Profissionais                                          |
+|----------------------------------------------------|------------------------------|--------------------------------------------------------|
+| - Criar amizades além da própria turma             | - Trocar dúvidas com colegas | - Conhecer projetos, empresas juniores e oportunidades |
+| - Sentir-se parte da comunidade universitária      | - Encontrar grupos de estudo | - Começar a construir networking                       | 
+| - Descobrir eventos e atividades extracurriculares | - Receber dicas de veteranos | - Entender como o mercado de trabalho funciona         |
 
-- Criar amizades além da própria turma
-- Sentir-se parte da comunidade universitária
-- Descobrir eventos e atividades extracurriculares
-
-#### Acadêmicos
-
-- Trocar dúvidas com colegas
-- Encontrar grupos de estudo
-- Receber dicas de veteranos
-
-#### Profissionais
-
-- Conhecer projetos, empresas juniores e oportunidades
-- Começar a construir networking
-
-### 😰 Dores e Frustrações (Agora alinhadas)
+### 😰 Dores e Frustrações
 
 - Dificuldade em conhecer pessoas fora do círculo imediato
 - Insegurança ao perguntar dúvidas diretamente para professores

@@ -263,6 +263,42 @@ Lucas espera que a plataforma:
 
 > Mapa construído a partir de simulação de entrevista semiestruturada com estudante recém-ingressa no ensino superior presencial.
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>O que vê?</strong><br><br>
+      - Ambientes e grupos da faculdade dispersos<br>
+      - Informações espalhadas entre diferentes canais<br>
+      - Dificuldade para localizar conteúdos relevantes<br>
+      - Colegas compartilhando dúvidas e experiências
+    </td>
+    <td valign="top" width="50%">
+      <strong>O que ouve?</strong><br><br>
+      - Recomendações de veteranos<br>
+      - Comentários sobre matérias e professores<br>
+      - Dicas de eventos e oportunidades<br>
+      - Reclamações sobre falta de centralização
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>O que fala e faz?</strong><br><br>
+      - Procura ajuda em grupos e chats<br>
+      - Pergunta sobre disciplinas e trabalhos<br>
+      - Tenta acompanhar a rotina acadêmica<br>
+      - Compartilha informações com colegas
+    </td>
+    <td valign="top" width="50%">
+      <strong>O que pensa e sente?</strong><br><br>
+      - Quer se integrar melhor ao ambiente universitário<br>
+      - Sente insegurança por não conhecer bem a dinâmica da faculdade<br>
+      - Busca apoio e acolhimento<br>
+      - Quer praticidade para acessar informações úteis
+    </td>
+  </tr>
+</table>
+
+
 ### 👀 O que Ana vê?
 
 - Um campus grande e cheio de pessoas desconhecidas

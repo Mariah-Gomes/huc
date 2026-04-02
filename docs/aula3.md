@@ -631,7 +631,7 @@ A aplicação atua como espaço complementar aos sistemas institucionais formais
 # Jornadas dos Usuários
 
 ## 🎓 Jornada — Ana Beatriz Cavalcante (Ingressante)
-Ana está no início da faculdade e ainda se sente deslocada. Apesar de frequentar as aulas diariamente, ela percebe que os colegas já começam a formar grupos e sente dificuldade em se aproximar. Tem receio de parecer desinformada e acaba participando pouco das conversas. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ana está no início da faculdade e ainda se sente deslocada. Apesar de frequentar as aulas diariamente, ela percebe que os colegas já começam a formar grupos e sente dificuldade em se aproximar. Tem receio de parecer desinformada e acaba participando pouco das conversas. <br>
 Um dia, ouve colegas comentando sobre uma rede social acadêmica da instituição. Curiosa e buscando uma forma menos intimidadora de se aproximar das pessoas, decide se cadastrar. <br>
 Nos primeiros dias, apenas observa as interações. Vê alunos comentando sobre disciplinas, compartilhando experiências e divulgando eventos. Em uma dessas publicações, descobre que haverá uma festa organizada por alunos do seu curso. <br>
 Ela decide comparecer. Ao chegar, reconhece alguns rostos que já havia visto na plataforma. A conversa flui com mais naturalidade porque já existia uma referência prévia. Ela não está mais totalmente deslocada. <br>

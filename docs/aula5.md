@@ -104,3 +104,4 @@
         - **OP. 2.3.A.6:** visualizar o feed sem a publicação excluída
 
 ## CTT
+<img width="763" height="901" alt="CTT drawio" src="https://github.com/user-attachments/assets/6223ea58-a1da-496d-9ea0-638f0e7bed1a" />

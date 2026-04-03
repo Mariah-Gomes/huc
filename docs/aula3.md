@@ -1,16 +1,4 @@
 # Personas
-
-- identidade: nome, sobrenome, idade, foto, etc.
-- status: primária, secundária, outro stakeholder
-- objetivos: Quais são os objetivos desta persona?
-- habilidades: Qual é a especialidade da persona? Isso inclui educação, treinamento e competências específicas.
-- tarefas: Em linhas gerais, quais as tarefas básicas ou críticas que a persona realiza? Qual é a frequência, importância e duração dessas tarefas?
-- relacionamentos: Com quem a persona se relaciona?
-- requisitos: De que a persona precisa?
-- expectativas: Como a persona acredita que o produto funciona? Como ela organiza as informações no seu domínio ou trabalho?
-
-<br>
-
 ## Perfil 1 — Estudante Calouro Presencial
 ### Identidade
 <table>

@@ -305,8 +305,8 @@ Lucas espera que a plataforma:
 &nbsp;&nbsp;&nbsp;&nbsp;Ela precisa de:<br>
 - Integração
 - Ambiente seguro
-- Descoberta de oportunidades<br>
-- Conexão entre pessoas
+- Descoberta de oportunidades
+- Conexão entre pessoas<br>
 &nbsp;&nbsp;&nbsp;&nbsp;A plataforma deve reduzir barreiras sociais e facilitar interações acadêmicas informais.
 
 ## Mapa de Empatia de Lucas Silva Maciel

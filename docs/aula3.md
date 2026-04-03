@@ -404,135 +404,15 @@ Lucas espera que a plataforma:
   </tr>
 </table>
 
-<br>
-
-<h3>🎯 Insight Principal do Mapa</h3>
-
-Lucas não busca pertencimento.<br><br>
-
-Ele busca:<br><br>
-
-✔ Otimização<br>
-✔ Segmentação<br>
-✔ Utilidade prática<br>
-✔ Contribuição técnica<br>
-✔ Apoio no desenvolvimento do TCC<br><br>
-
-A plataforma deve permitir interações mais direcionadas, técnicas e produtivas, com recursos que auxiliem na pesquisa acadêmica e networking profissional.
-
-### 👀 O que Lucas vê?
-
-- Rotina corrida entre trabalho e faculdade
-- Colegas mais novos pedindo ajuda técnica
-- Grupos digitais com muita informação repetida
-- Divulgação dispersa de vagas, eventos e projetos
-- Outros alunos também sobrecarregados no final do curso
-- Professores cobrando entregas de TCC
-
-📌 **Contexto:**
-
-Lucas percebe a universidade como um ambiente produtivo, mas pouco eficiente em termos de organização informal e troca estruturada de conhecimento.
-
-### 👂 O que Lucas ouve?
-
-- “Você já começou o TCC?”
-- “Tem estágio novo abrindo.”
-- “Consegue me ajudar com esse código?”
-- “O prazo da banca já saiu?”
-- Conversas sobre mercado de trabalho e efetivação
-
-📌 **Influência:**
-
-Grande parte das informações relevantes chega de maneira informal, muitas vezes tarde demais ou misturada com conteúdos irrelevantes.
-
-### 🗣 O que Lucas diz e faz?
-
-#### O que ele diz:
-
-- “Não tenho tempo para ficar procurando informação.”
-- “Se for direto ao ponto, eu uso.”
-- “Seria bom divulgar meu questionário para mais alunos.”
-- “Queria um lugar para compartilhar conteúdo técnico.”
-
-#### O que ele faz:
-
-- Filtra rapidamente conteúdos
-- Ignora notificações irrelevantes
-- Responde dúvidas quando o tema é técnico
-- Pesquisa referências online para o TCC
-- Compartilha links e materiais em grupos específicos
-
-📌 **Comportamento:**
-
-Lucas é objetivo, pragmático e valoriza eficiência. Ele interage quando vê valor claro na troca.
-
-### 💭 O que Lucas pensa e sente?
-
-#### Pensamentos:
-
-- “Preciso otimizar meu tempo.”
-- “Quero terminar essa fase bem.”
-- “Preciso de dados suficientes para o TCC.”
-- “Preciso me destacar profissionalmente.”
-
-#### Sentimentos:
-
-- Pressão acadêmica
-- Cansaço
-- Foco
-- Responsabilidade
-- Motivação para concluir o curso
-
-#### Expectativas sobre a rede social:
-
-- Filtros eficientes
-- Espaço para divulgar pesquisas e questionários
-- Interações técnicas produtivas
-- Conteúdos relevantes segmentados por área
-- Networking útil
-
-### 😰 Dores
-
-- Excesso de ruído informacional
-- Falta de tempo para explorar conteúdos longos
-- Dificuldade em encontrar rapidamente respostas específicas
-- Baixa participação em pesquisas acadêmicas
-- Falta de integração entre alunos de diferentes semestres técnicos
-
-📌 **Dor central:**
-
-Falta de eficiência e segmentação na troca acadêmica e profissional.
-
-### 🎁 Ganhos
-
-- Economia de tempo
-- Divulgação facilitada de questionários do TCC
-- Respostas técnicas rápidas
-- Ampliação de networking profissional
-- Consolidação da identidade acadêmica
-- Reconhecimento como aluno experiente
-
-📌 **Ganho principal:**
-
-Eficiência + produtividade + fortalecimento acadêmico-profissional.
-
-### 🎯 Insight Principal do Mapa
-
-Lucas não busca pertencimento.
-
-Ele busca:
-
-✔ Otimização
-
-✔ Segmentação
-
-✔ Utilidade prática
-
-✔ Contribuição técnica
-
-✔ Apoio no desenvolvimento do TCC
-
-A plataforma deve permitir interações mais direcionadas, técnicas e produtivas, com recursos que auxiliem na pesquisa acadêmica e networking profissional.
+### Insight Principal do Mapa
+&nbsp;&nbsp;&nbsp;&nbsp;Lucas não busca pertencimento.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ele busca:<br>
+- Otimização
+- Segmentação
+- Utilidade prática
+- Contribuição técnica
+- Apoio no desenvolvimento do TCC<br>
+&nbsp;&nbsp;&nbsp;&nbsp;A plataforma deve permitir interações mais direcionadas, técnicas e produtivas, com recursos que auxiliem na pesquisa acadêmica e networking profissional.
 
 # Contexto de Uso
 ## Ambiente de utilização do serviço

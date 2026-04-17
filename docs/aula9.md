@@ -71,7 +71,7 @@ No design centrado na comunicação, a interação é tratada como uma conversa 
 | > excluir publicação              | **U:** Quero remover uma **publicação** de minha autoria.                                                                                                     |
 | > excluir publicação              | **D:** Posso excluir a **publicação** após sua confirmação.                                                                                                   |
 
-### 9.3 Mapa de Objetivos dos Usuários
+### 3 Mapa de Objetivos dos Usuários
 
 O mapa de objetivos organiza os objetivos dos usuários em finais e instrumentais. Os objetivos finais representam aquilo que motiva o uso da plataforma. Já os objetivos instrumentais ajudam o usuário a alcançar esses objetivos finais, podendo ser diretos, quando acontecem durante a própria interação, ou indiretos, quando preparam o terreno para um objetivo futuro.
 
@@ -108,7 +108,7 @@ O mapa de objetivos organiza os objetivos dos usuários em finais e instrumentai
 
 No Goriah, o feed não é apenas um espaço de consumo de conteúdo. Ele é o ponto central que conecta objetivos de integração, descoberta, discussão e produtividade acadêmica. Para Ana, os objetivos finais giram em torno de pertencimento e descoberta de oportunidades. Para Lucas, giram em torno de eficiência, validação de ideias e utilidade prática para o TCC e para a carreira.
 
-### 9.4 Esquema Conceitual de Signos
+### 4 Esquema Conceitual de Signos
 
 O esquema conceitual de signos organiza os principais elementos envolvidos na conversa entre usuário e sistema no Goriah. A partir do design centrado na comunicação, foram identificados os signos mais importantes para a interação no **feed acadêmico**, especialmente aqueles ligados à visualização, filtragem, busca, criação de **publicações**, registro de **comentários** e envio de **denúncias**.
 
@@ -153,7 +153,7 @@ O esquema conceitual de signos organiza os principais elementos envolvidos na co
 | **descrição complementar** | domínio           | Campo opcional para detalhar a **denúncia**.                              | texto            | limite máximo de tamanho                         | vazio               | **PP:** indicar que o preenchimento é opcional                                                | **RA:** informar quando o limite de tamanho for excedido             |
 | **status da denúncia**     | aplicação         | Situação atual da **denúncia** no processo de análise.                    | seleção simples  | deve pertencer ao conjunto de estados válidos    | enviada             | **PA:** atualização controlada pelo sistema                                                   | **CE:** informar falha caso o status não possa ser atualizado        |
 
-### 9.5 Síntese da Etapa
+### 5 Síntese da Etapa
 
 O modelo conceitual do Goriah mostra que a plataforma deve ser entendida como um ambiente de conversa acadêmica mediado pela interface. O cenário de interação transformou os problemas antes vividos por Ana e Lucas em situações apoiadas pelo sistema. O design centrado na comunicação organizou a interação como conversa entre usuário e sistema. O mapa de objetivos deixou mais claro o que motiva o uso da plataforma e como os objetivos instrumentais ajudam a alcançar esses fins. Por fim, o esquema conceitual de signos estruturou os principais elementos que compõem a linguagem da interface do feed acadêmico.
 

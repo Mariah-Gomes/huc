@@ -20,6 +20,7 @@ Cada etapa está documentada nas páginas abaixo:
 - [6. Aula - Prototipação](./docs/aula6.md)
 - [7. Aula - Coleta de Dados](./docs/aula7/aula7.md)
 - [8. Aula - Ciclo de Vida](./docs/aula8.md)
+- [9. Aula - Modelo Conceitual](./docs/aula9.md)
 
 ## 🎯 Objetivo da Disciplina
 

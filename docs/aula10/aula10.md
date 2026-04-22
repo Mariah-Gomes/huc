@@ -11,4 +11,4 @@ Para facilitar a leitura e a visualização dos elementos do diagrama, a versão
 
 ### Diagrama
 
-![Diagrama MoLIC do cenário Participar do feed](image/aula10/1776876824615.png)
+<img width="937" height="700" alt="molic drawio" src="https://github.com/user-attachments/assets/050831d2-a180-471c-b4a2-a9e834d8cad8" />

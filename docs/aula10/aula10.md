@@ -1,13 +1,22 @@
 ## Modelagem MoLIC
 
+<br>
+
 ### Nome do cenário
 
+```
 Participar do feed
+```
+
+<br>
 
 ### Diagrama em PDF
 
-Para facilitar a leitura e a visualização dos elementos do diagrama, a versão em PDF pode ser acessada no link abaixo:  
+Para facilitar a leitura e a visualização dos elementos do diagrama, a versão em PDF pode ser acessada no link abaixo:
+
 [Diagrama MoLIC em PDF](./molic.drawio.pdf)
+
+<br>
 
 ### Diagrama
 

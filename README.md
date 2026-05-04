@@ -21,7 +21,8 @@ Cada etapa está documentada nas páginas abaixo:
 - [7. Aula - Coleta de Dados](./docs/aula7/aula7.md)
 - [8. Aula - Ciclo de Vida](./docs/aula8.md)
 - [9. Aula - Modelo Conceitual](./docs/aula9.md)
-- [10. Aula- Modelagem MoLIC](./docs/aula10/aula10.md)
+- [10. Aula - Modelagem MoLIC](./docs/aula10/aula10.md)
+- [11. Aula - Prototipação da Interface Usando Figma](./docs/aula11.md)
 
 ## 🎯 Objetivo da Disciplina
 

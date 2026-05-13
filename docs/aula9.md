@@ -36,40 +36,44 @@ Conforme novos comentários aparecem, **Lucas acompanha as respostas diretamente
 
 Ao final desse processo, Lucas percebe que **conseguiu validar suas ideias com uma rede mais ampla e diversificada de pessoas por meio do Goriah**, reduzindo a limitação que antes existia em sua rotina corrida. **Assim, a discussão do tema do TCC se torna mais acessível, eficiente e compatível com seu tempo disponível.**
 
+---
+
 ### 2 Design Centrado na Comunicação
 
 No design centrado na comunicação, a interação é tratada como uma conversa entre usuário e sistema, organizada em tópicos, subtópicos, falas e signos. Essa modelagem ajuda a transformar o entendimento levantado nas personas, cenários e tarefas em uma conversa estruturada que depois poderá orientar o protótipo e a interface.
 
 #### Conversa principal: participar do feed acadêmico
 
-| tópico > subtópico (diálogo)      | falas e signos                                                                                                                                                |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| participar do feed acadêmico      | **U:** Quero acompanhar o **feed** e encontrar conteúdos acadêmicos relevantes para mim.                                                                      |
-| > acompanhar publicações do feed  | **D:** Posso mostrar **publicações** recentes, com seus **autores**, **conteúdos**, **tags** e interações disponíveis.                                        |
-| > filtrar publicações             | **U:** Quero ver apenas publicações ligadas aos meus interesses.                                                                                              |
-| > filtrar publicações             | **D:** Quais **tags** ou temas você deseja utilizar para filtrar o **feed**?                                                                                  |
-| > informar filtro                 | **U:** Quero filtrar por **tags** relacionadas a eventos, projetos acadêmicos e grupos de estudo.                                                             |
-| > informar filtro                 | **D:** OK, vou apresentar o **feed filtrado** com publicações relacionadas às **tags** informadas.                                                            |
-| > buscar publicações              | **U:** Agora quero localizar um assunto específico usando **palavras-chave**.                                                                                 |
-| > buscar publicações              | **D:** Informe as **palavras-chave** que deseja buscar nas **publicações**.                                                                                   |
-| > informar busca                  | **U:** Quero buscar conteúdos sobre **TCC**, pesquisa e desenvolvimento de tema.                                                                              |
-| > informar busca                  | **D:** Aqui estão as **publicações** que contêm as **palavras-chave** informadas.                                                                             |
-| > interagir com publicação        | **U:** Encontrei uma **publicação** relevante e quero interagir com ela.                                                                                      |
-| > interagir com publicação        | **D:** Você pode registrar uma **reação**, escrever um **comentário** ou acompanhar a discussão dessa **publicação**.                                         |
-| > comentar publicação             | **U:** Quero escrever um **comentário** nessa publicação para compartilhar minha dúvida ou opinião.                                                           |
-| > comentar publicação             | **D:** OK, seu **comentário** será registrado na discussão da **publicação**.                                                                                 |
-| > publicar conteúdo               | **U:** Quero criar uma nova **publicação** para compartilhar uma dúvida, ideia ou oportunidade acadêmica.                                                     |
-| > publicar conteúdo               | **D:** Informe o **tipo de publicação**, o **título**, as **tags** relacionadas e o **conteúdo** da publicação para que ela possa ser organizada no **feed**. |
-| > informar conteúdo da publicação | **U:** Vou selecionar o **tipo de publicação**, informar o **título**, adicionar as **tags** relacionadas e escrever o **conteúdo** da publicação.            |
-| > informar conteúdo da publicação | **D:** OK, a **publicação** foi registrada e agora está disponível no **feed**.                                                                               |
-| > denunciar publicação            | **U:** Identifiquei uma **publicação** inadequada e quero registrar uma **denúncia**.                                                                         |
-| > denunciar publicação            | **D:** Informe o **motivo da denúncia** para que ela possa ser encaminhada para análise.                                                                      |
-| > informar denúncia               | **U:** Vou selecionar o **motivo** e confirmar a **denúncia**.                                                                                                |
-| > informar denúncia               | **D:** OK, a **denúncia** foi registrada e enviada para análise.                                                                                              |
-| > editar publicação               | **U:** Quero alterar o **conteúdo** de uma **publicação** que criei.                                                                                          |
-| > editar publicação               | **D:** Posso carregar o **conteúdo** atual da sua **publicação** para que você faça as alterações desejadas.                                                  |
-| > excluir publicação              | **U:** Quero remover uma **publicação** de minha autoria.                                                                                                     |
-| > excluir publicação              | **D:** Posso excluir a **publicação** após sua confirmação.                                                                                                   |
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| participar do feed acadêmico | **U:** Quero acompanhar o **feed** e encontrar conteúdos acadêmicos relevantes para mim. |
+| > acompanhar publicações do feed | **D:** Posso mostrar **publicações** recentes, com seus **autores**, **conteúdos**, **tags** e interações disponíveis. |
+| > filtrar publicações | **U:** Quero ver apenas publicações ligadas aos meus interesses. |
+| > filtrar publicações | **D:** Quais **tags** ou temas você deseja utilizar para filtrar o **feed**? |
+| > informar filtro | **U:** Quero filtrar por **tags** relacionadas a eventos, projetos acadêmicos e grupos de estudo. |
+| > informar filtro | **D:** OK, vou apresentar o **feed filtrado** com publicações relacionadas às **tags** informadas. |
+| > buscar publicações | **U:** Agora quero localizar um assunto específico usando **palavras-chave**. |
+| > buscar publicações | **D:** Informe as **palavras-chave** que deseja buscar nas **publicações**. |
+| > informar busca | **U:** Quero buscar conteúdos sobre **TCC**, pesquisa e desenvolvimento de tema. |
+| > informar busca | **D:** Aqui estão as **publicações** que contêm as **palavras-chave** informadas. |
+| > interagir com publicação | **U:** Encontrei uma **publicação** relevante e quero interagir com ela. |
+| > interagir com publicação | **D:** Você pode registrar uma **reação**, escrever um **comentário** ou acompanhar a discussão dessa **publicação**. |
+| > comentar publicação | **U:** Quero escrever um **comentário** nessa publicação para compartilhar minha dúvida ou opinião. |
+| > comentar publicação | **D:** OK, seu **comentário** será registrado na discussão da **publicação**. |
+| > publicar conteúdo | **U:** Quero criar uma nova **publicação** para compartilhar uma dúvida, ideia ou oportunidade acadêmica. |
+| > publicar conteúdo | **D:** Informe o **tipo de publicação**, o **título**, as **tags** relacionadas e o **conteúdo** da publicação para que ela possa ser organizada no **feed**. |
+| > informar conteúdo da publicação | **U:** Vou selecionar o **tipo de publicação**, informar o **título**, adicionar as **tags** relacionadas e escrever o **conteúdo** da publicação. |
+| > informar conteúdo da publicação | **D:** OK, a **publicação** foi registrada e agora está disponível no **feed**. |
+| > denunciar publicação | **U:** Identifiquei uma **publicação** inadequada e quero registrar uma **denúncia**. |
+| > denunciar publicação | **D:** Informe o **motivo da denúncia** para que ela possa ser encaminhada para análise. |
+| > informar denúncia | **U:** Vou selecionar o **motivo** e confirmar a **denúncia**. |
+| > informar denúncia | **D:** OK, a **denúncia** foi registrada e enviada para análise. |
+| > editar publicação | **U:** Quero alterar o **conteúdo** de uma **publicação** que criei. |
+| > editar publicação | **D:** Posso carregar o **conteúdo** atual da sua **publicação** para que você faça as alterações desejadas. |
+| > excluir publicação | **U:** Quero remover uma **publicação** de minha autoria. |
+| > excluir publicação | **D:** Posso excluir a **publicação** após sua confirmação. |
+
+---
 
 ### 3 Mapa de Objetivos dos Usuários
 
@@ -77,36 +81,64 @@ O mapa de objetivos organiza os objetivos dos usuários em finais e instrumentai
 
 #### Objetivos finais
 
-| Papel                          | Objetivo final                                                                    |
-| ------------------------------ | --------------------------------------------------------------------------------- |
-| Estudante ingressante          | Encontrar oportunidades acadêmicas e sociais de forma centralizada                |
-| Estudante ingressante          | Integrar-se ao ambiente universitário por meio de interações acadêmicas informais |
-| Estudante veterano trabalhador | Validar ideias e discutir temas relevantes de forma eficiente                     |
-| Estudante veterano trabalhador | Compartilhar conhecimento e ampliar networking acadêmico-profissional             |
+| Papel | Objetivo final |
+|---|---|
+| Estudante ingressante | Encontrar oportunidades acadêmicas e sociais de forma centralizada |
+| Estudante ingressante | Integrar-se ao ambiente universitário por meio de interações acadêmicas informais |
+| Estudante veterano trabalhador | Validar ideias e discutir temas relevantes de forma eficiente |
+| Estudante veterano trabalhador | Compartilhar conhecimento e ampliar networking acadêmico-profissional |
 
 #### Objetivos instrumentais diretos
 
-| Papel                          | Objetivo instrumental direto                   | Apoia qual objetivo final?                     |
-| ------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| Estudante ingressante          | Acompanhar publicações do feed                 | Encontrar oportunidades acadêmicas e sociais   |
-| Estudante ingressante          | Filtrar conteúdos por interesse                | Encontrar oportunidades acadêmicas e sociais   |
-| Estudante ingressante          | Interagir com publicações e comentários        | Integrar-se ao ambiente universitário          |
-| Estudante veterano trabalhador | Buscar conteúdos por tema                      | Validar ideias e discutir temas relevantes     |
-| Estudante veterano trabalhador | Publicar dúvidas, propostas ou questionamentos | Validar ideias e discutir temas relevantes     |
-| Estudante veterano trabalhador | Comentar discussões relevantes                 | Compartilhar conhecimento e ampliar networking |
+| Papel | Objetivo instrumental direto | Apoia qual objetivo final? |
+|---|---|---|
+| Estudante ingressante | Acompanhar publicações do feed | Encontrar oportunidades acadêmicas e sociais |
+| Estudante ingressante | Filtrar conteúdos por interesse | Encontrar oportunidades acadêmicas e sociais |
+| Estudante ingressante | Interagir com publicações e comentários | Integrar-se ao ambiente universitário |
+| Estudante veterano trabalhador | Buscar conteúdos por tema | Validar ideias e discutir temas relevantes |
+| Estudante veterano trabalhador | Publicar dúvidas, propostas ou questionamentos | Validar ideias e discutir temas relevantes |
+| Estudante veterano trabalhador | Comentar discussões relevantes | Compartilhar conhecimento e ampliar networking |
 
 #### Objetivos instrumentais indiretos
 
-| Papel                          | Objetivo instrumental indireto                            | Apoia qual objetivo final?                     |
-| ------------------------------ | --------------------------------------------------------- | ---------------------------------------------- |
-| Estudante ingressante          | Definir áreas de interesse no perfil                      | Encontrar oportunidades acadêmicas e sociais   |
-| Estudante ingressante          | Construir rede inicial de conexões                        | Integrar-se ao ambiente universitário          |
+| Papel | Objetivo instrumental indireto | Apoia qual objetivo final? |
+|---|---|---|
+| Estudante ingressante | Definir áreas de interesse no perfil | Encontrar oportunidades acadêmicas e sociais |
+| Estudante ingressante | Construir rede inicial de conexões | Integrar-se ao ambiente universitário |
 | Estudante veterano trabalhador | Organizar interesses acadêmicos e profissionais no perfil | Compartilhar conhecimento e ampliar networking |
-| Estudante veterano trabalhador | Manter histórico de interações e publicações relevantes   | Validar ideias e discutir temas relevantes     |
+| Estudante veterano trabalhador | Manter histórico de interações e publicações relevantes | Validar ideias e discutir temas relevantes |
+
+#### Mapa consolidado dos objetivos
+
+| Perfil de usuário | Objetivo final | Objetivos instrumentais | Funcionalidades relacionadas | Signos envolvidos |
+|---|---|---|---|---|
+| Estudante ingressante | Encontrar oportunidades acadêmicas e sociais de forma centralizada | Acompanhar publicações do feed; filtrar conteúdos por interesse; definir áreas de interesse no perfil | Feed acadêmico; filtros por tags; perfil de interesses; busca de publicações | Feed, publicação, tags, interesses, autor, conteúdo |
+| Estudante ingressante | Integrar-se ao ambiente universitário por meio de interações acadêmicas informais | Interagir com publicações e comentários; construir rede inicial de conexões | Comentários; reações; conexões; acompanhamento de discussões | Comentário, reação, conexão, usuário, notificação |
+| Estudante veterano trabalhador | Validar ideias e discutir temas relevantes de forma eficiente | Buscar conteúdos por tema; publicar dúvidas, propostas ou questionamentos; manter histórico de interações | Busca por palavras-chave; criação de publicação; comentários; histórico de publicações | Busca, palavras-chave, publicação, título, conteúdo, comentário |
+| Estudante veterano trabalhador | Compartilhar conhecimento e ampliar networking acadêmico-profissional | Comentar discussões relevantes; organizar interesses acadêmicos e profissionais no perfil | Comentários; perfil acadêmico; conexões; interações no feed | Perfil, interesses, comentário, conexão, publicação |
+
+#### Relação consolidada entre objetivos e ações no sistema
+
+| Objetivo do usuário | Ação realizada no sistema | Resposta esperada do sistema |
+|---|---|---|
+| Encontrar oportunidades acadêmicas e sociais | Acessar o feed e visualizar publicações recentes | Exibir publicações organizadas com autor, conteúdo, tags e interações |
+| Encontrar conteúdos mais relevantes | Aplicar filtros por tags ou interesses | Atualizar o feed com publicações relacionadas aos filtros escolhidos |
+| Localizar um tema específico | Buscar publicações por palavras-chave | Exibir resultados relacionados ao termo pesquisado |
+| Participar de discussões acadêmicas | Comentar em uma publicação | Registrar o comentário e exibi-lo na discussão |
+| Validar ideias ou dúvidas | Criar uma nova publicação | Registrar a publicação e disponibilizá-la no feed |
+| Ampliar interações acadêmicas | Interagir com publicações e outros usuários | Registrar reações, comentários e conexões |
+| Preservar a qualidade do ambiente | Denunciar uma publicação inadequada | Registrar a denúncia e encaminhá-la para análise |
+| Gerenciar conteúdo próprio | Editar ou excluir publicação de autoria própria | Permitir alteração ou exclusão mediante confirmação |
 
 #### Síntese interpretativa do mapa
 
 No Goriah, o feed não é apenas um espaço de consumo de conteúdo. Ele é o ponto central que conecta objetivos de integração, descoberta, discussão e produtividade acadêmica. Para Ana, os objetivos finais giram em torno de pertencimento e descoberta de oportunidades. Para Lucas, giram em torno de eficiência, validação de ideias e utilidade prática para o TCC e para a carreira.
+
+O mapa consolidado mostra que os objetivos finais dos usuários dependem de uma sequência de objetivos instrumentais apoiados pela interface. Acompanhar publicações, filtrar conteúdos, buscar temas, comentar, publicar, reagir e denunciar são ações que permitem ao usuário alcançar objetivos maiores, como se integrar à universidade, descobrir oportunidades, validar ideias e ampliar sua rede acadêmica.
+
+Dessa forma, o Goriah pode ser entendido como um ambiente de mediação acadêmica, no qual os signos da interface sustentam a conversa entre usuário e sistema e tornam possível a realização dos objetivos identificados nos cenários.
+
+---
 
 ### 4 Esquema Conceitual de Signos
 
@@ -114,47 +146,51 @@ O esquema conceitual de signos organiza os principais elementos envolvidos na co
 
 #### Entidade: **Publicação (P)** – conteúdo compartilhado no **feed**
 
-| signo                  | origem            | observações                                                                                 | tipo de conteúdo | restrição sobre o conteúdo                                 | valor default       | prevenção                                                                  | recuperação                                                                     |
-| ---------------------- | ----------------- | ------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **+ Publicação (P)**   | domínio           | Entidade principal do **feed**; representa o conteúdo acadêmico compartilhado pelo usuário. | —                | —                                                          | —                   | —                                                                          | —                                                                               |
-| **autor**              | domínio/aplicação | Identifica quem criou a **publicação**.                                                     | referência       | deve estar associado a um usuário autenticado              | usuário autenticado | **PA:** associação automática do **autor** à sessão ativa                  | **CE:** informar falha caso não seja possível identificar o usuário autenticado |
-| **conteúdo**           | domínio           | Texto principal da **publicação**.                                                          | texto longo      | não pode ser nulo                                          | —                   | **PP:** indicar que o campo é obrigatório; **PA:** impedir envio vazio     | **RA:** informar que a **publicação** precisa ter **conteúdo** válido           |
-| **tags**               | domínio/aplicação | Classificam o tema da **publicação** no **feed**.                                           | seleção múltipla | devem pertencer ao conjunto de **tags** válidas do sistema | vazio               | **PP:** orientar uso das **tags**; **PA:** aceitar apenas **tags** válidas | **RA:** informar quando houver **tags** inválidas                               |
-| **data de publicação** | aplicação         | Indica quando a **publicação** foi registrada no sistema.                                   | data/hora        | gerada automaticamente pelo sistema                        | data/hora atual     | **PA:** geração automática da data                                         | **CE:** informar indisponibilidade se o registro não puder ser concluído        |
-| **reação**             | aplicação         | Representa a interação rápida do usuário com a **publicação**.                              | seleção simples  | deve pertencer ao conjunto de reações permitidas           | vazio               | **PA:** aceitar apenas reações válidas                                     | **RA:** informar quando a **reação** não puder ser registrada                   |
+| signo | origem | observações | tipo de conteúdo | restrição sobre o conteúdo | valor default | prevenção | recuperação |
+|---|---|---|---|---|---|---|---|
+| **+ Publicação (P)** | domínio | Entidade principal do **feed**; representa o conteúdo acadêmico compartilhado pelo usuário. | — | — | — | — | — |
+| **autor** | domínio/aplicação | Identifica quem criou a **publicação**. | referência | deve estar associado a um usuário autenticado | usuário autenticado | **PA:** associação automática do **autor** à sessão ativa | **CE:** informar falha caso não seja possível identificar o usuário autenticado |
+| **conteúdo** | domínio | Texto principal da **publicação**. | texto longo | não pode ser nulo | — | **PP:** indicar que o campo é obrigatório; **PA:** impedir envio vazio | **RA:** informar que a **publicação** precisa ter **conteúdo** válido |
+| **tags** | domínio/aplicação | Classificam o tema da **publicação** no **feed**. | seleção múltipla | devem pertencer ao conjunto de **tags** válidas do sistema | vazio | **PP:** orientar uso das **tags**; **PA:** aceitar apenas **tags** válidas | **RA:** informar quando houver **tags** inválidas |
+| **data de publicação** | aplicação | Indica quando a **publicação** foi registrada no sistema. | data/hora | gerada automaticamente pelo sistema | data/hora atual | **PA:** geração automática da data | **CE:** informar indisponibilidade se o registro não puder ser concluído |
+| **reação** | aplicação | Representa a interação rápida do usuário com a **publicação**. | seleção simples | deve pertencer ao conjunto de reações permitidas | vazio | **PA:** aceitar apenas reações válidas | **RA:** informar quando a **reação** não puder ser registrada |
 
 #### Entidade: **Filtro de Feed (F)** – refinamento da visualização de **publicações**
 
-| signo                    | origem            | observações                                                                           | tipo de conteúdo | restrição sobre o conteúdo                           | valor default | prevenção                                                                                         | recuperação                                                                             |
-| ------------------------ | ----------------- | ------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **+ Filtro de Feed (F)** | aplicação         | Entidade responsável por organizar e refinar as **publicações** exibidas no **feed**. | —                | —                                                    | —             | —                                                                                                 | —                                                                                       |
-| **tags**                 | domínio/aplicação | Permitem filtrar o **feed** por temas de interesse.                                   | seleção múltipla | devem pertencer ao conjunto de **tags** válidas      | vazio         | **PP:** indicar que o filtro pode ser feito por **tags**; **PA:** aceitar apenas **tags** válidas | **RA:** informar ausência de resultados para as **tags** escolhidas                     |
-| **palavras-chave**       | domínio           | Permitem localizar **publicações** por assunto específico.                            | texto            | tamanho mínimo e máximo definidos                    | vazio         | **PP:** orientar uso de termos relevantes para a busca                                            | **RA:** informar quando não houver **publicações** com as **palavras-chave** informadas |
-| **feed filtrado**        | aplicação         | Resultado da aplicação dos filtros e buscas no **feed**.                              | lista            | depende das **tags** e **palavras-chave** informadas | feed geral    | **PA:** atualizar automaticamente o **feed** após filtro ou busca válidos                         | **RA:** exibir mensagem de nenhum resultado e permitir limpar filtros                   |
+| signo | origem | observações | tipo de conteúdo | restrição sobre o conteúdo | valor default | prevenção | recuperação |
+|---|---|---|---|---|---|---|---|
+| **+ Filtro de Feed (F)** | aplicação | Entidade responsável por organizar e refinar as **publicações** exibidas no **feed**. | — | — | — | — | — |
+| **tags** | domínio/aplicação | Permitem filtrar o **feed** por temas de interesse. | seleção múltipla | devem pertencer ao conjunto de **tags** válidas | vazio | **PP:** indicar que o filtro pode ser feito por **tags**; **PA:** aceitar apenas **tags** válidas | **RA:** informar ausência de resultados para as **tags** escolhidas |
+| **palavras-chave** | domínio | Permitem localizar **publicações** por assunto específico. | texto | tamanho mínimo e máximo definidos | vazio | **PP:** orientar uso de termos relevantes para a busca | **RA:** informar quando não houver **publicações** com as **palavras-chave** informadas |
+| **feed filtrado** | aplicação | Resultado da aplicação dos filtros e buscas no **feed**. | lista | depende das **tags** e **palavras-chave** informadas | feed geral | **PA:** atualizar automaticamente o **feed** após filtro ou busca válidos | **RA:** exibir mensagem de nenhum resultado e permitir limpar filtros |
 
 #### Entidade: **Comentário (C)** – contribuição textual em uma **publicação**
 
-| signo                  | origem            | observações                                                                                       | tipo de conteúdo | restrição sobre o conteúdo                       | valor default       | prevenção                                                              | recuperação                                                           |
-| ---------------------- | ----------------- | ------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------ | ------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **+ Comentário (C)**   | domínio           | Entidade vinculada a uma **publicação** e usada para registrar a participação textual do usuário. | —                | —                                                | —                   | —                                                                      | —                                                                     |
-| **publicação**         | domínio           | Indica a qual **publicação** o **comentário** está associado.                                     | referência       | deve existir uma **publicação** válida associada | —                   | **PA:** permitir comentário apenas em **publicação** existente         | **CE:** informar quando a **publicação** não estiver mais disponível  |
-| **autor**              | domínio/aplicação | Identifica quem escreveu o **comentário**.                                                        | referência       | deve estar associado a um usuário autenticado    | usuário autenticado | **PA:** associação automática do **autor** à sessão ativa              | **CE:** informar falha de autenticação                                |
-| **conteúdo**           | domínio           | Texto do **comentário**.                                                                          | texto            | não pode ser nulo                                | —                   | **PP:** indicar que o campo é obrigatório; **PA:** impedir envio vazio | **RA:** informar que o **comentário** precisa ter **conteúdo** válido |
-| **data do comentário** | aplicação         | Indica quando o **comentário** foi registrado.                                                    | data/hora        | gerada automaticamente pelo sistema              | data/hora atual     | **PA:** geração automática da data                                     | **CE:** informar erro caso o registro não possa ser concluído         |
+| signo | origem | observações | tipo de conteúdo | restrição sobre o conteúdo | valor default | prevenção | recuperação |
+|---|---|---|---|---|---|---|---|
+| **+ Comentário (C)** | domínio | Entidade vinculada a uma **publicação** e usada para registrar a participação textual do usuário. | — | — | — | — | — |
+| **publicação** | domínio | Indica a qual **publicação** o **comentário** está associado. | referência | deve existir uma **publicação** válida associada | — | **PA:** permitir comentário apenas em **publicação** existente | **CE:** informar quando a **publicação** não estiver mais disponível |
+| **autor** | domínio/aplicação | Identifica quem escreveu o **comentário**. | referência | deve estar associado a um usuário autenticado | usuário autenticado | **PA:** associação automática do **autor** à sessão ativa | **CE:** informar falha de autenticação |
+| **conteúdo** | domínio | Texto do **comentário**. | texto | não pode ser nulo | — | **PP:** indicar que o campo é obrigatório; **PA:** impedir envio vazio | **RA:** informar que o **comentário** precisa ter **conteúdo** válido |
+| **data do comentário** | aplicação | Indica quando o **comentário** foi registrado. | data/hora | gerada automaticamente pelo sistema | data/hora atual | **PA:** geração automática da data | **CE:** informar erro caso o registro não possa ser concluído |
 
 #### Entidade: **Denúncia (D)** – registro de conteúdo inadequado
 
-| signo                      | origem            | observações                                                               | tipo de conteúdo | restrição sobre o conteúdo                       | valor default       | prevenção                                                                                     | recuperação                                                          |
-| -------------------------- | ----------------- | ------------------------------------------------------------------------- | ---------------- | ------------------------------------------------ | ------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **+ Denúncia (D)**         | aplicação         | Entidade usada para registrar o reporte de uma **publicação** inadequada. | —                | —                                                | —                   | —                                                                                             | —                                                                    |
-| **publicação denunciada**  | domínio           | Referência à **publicação** que será analisada.                           | referência       | deve existir uma **publicação** válida associada | —                   | **PA:** permitir denúncia apenas sobre **publicação** existente                               | **CE:** informar quando a **publicação** já tiver sido removida      |
-| **denunciante**            | domínio/aplicação | Identifica quem registrou a **denúncia**.                                 | referência       | deve estar associado a um usuário autenticado    | usuário autenticado | **PA:** associação automática do **denunciante** à sessão ativa                               | **CE:** informar necessidade de autenticação                         |
-| **motivo da denúncia**     | domínio/aplicação | Justificativa selecionada pelo usuário ao registrar a **denúncia**.       | seleção simples  | deve pertencer ao conjunto de motivos válidos    | —                   | **PP:** explicar a necessidade de selecionar um **motivo**; **PA:** impedir envio sem seleção | **RA:** informar que é necessário escolher um **motivo da denúncia** |
-| **descrição complementar** | domínio           | Campo opcional para detalhar a **denúncia**.                              | texto            | limite máximo de tamanho                         | vazio               | **PP:** indicar que o preenchimento é opcional                                                | **RA:** informar quando o limite de tamanho for excedido             |
-| **status da denúncia**     | aplicação         | Situação atual da **denúncia** no processo de análise.                    | seleção simples  | deve pertencer ao conjunto de estados válidos    | enviada             | **PA:** atualização controlada pelo sistema                                                   | **CE:** informar falha caso o status não possa ser atualizado        |
+| signo | origem | observações | tipo de conteúdo | restrição sobre o conteúdo | valor default | prevenção | recuperação |
+|---|---|---|---|---|---|---|---|
+| **+ Denúncia (D)** | aplicação | Entidade usada para registrar o reporte de uma **publicação** inadequada. | — | — | — | — | — |
+| **publicação denunciada** | domínio | Referência à **publicação** que será analisada. | referência | deve existir uma **publicação** válida associada | — | **PA:** permitir denúncia apenas sobre **publicação** existente | **CE:** informar quando a **publicação** já tiver sido removida |
+| **denunciante** | domínio/aplicação | Identifica quem registrou a **denúncia**. | referência | deve estar associado a um usuário autenticado | usuário autenticado | **PA:** associação automática do **denunciante** à sessão ativa | **CE:** informar necessidade de autenticação |
+| **motivo da denúncia** | domínio/aplicação | Justificativa selecionada pelo usuário ao registrar a **denúncia**. | seleção simples | deve pertencer ao conjunto de motivos válidos | — | **PP:** explicar a necessidade de selecionar um **motivo**; **PA:** impedir envio sem seleção | **RA:** informar que é necessário escolher um **motivo da denúncia** |
+| **descrição complementar** | domínio | Campo opcional para detalhar a **denúncia**. | texto | limite máximo de tamanho | vazio | **PP:** indicar que o preenchimento é opcional | **RA:** informar quando o limite de tamanho for excedido |
+| **status da denúncia** | aplicação | Situação atual da **denúncia** no processo de análise. | seleção simples | deve pertencer ao conjunto de estados válidos | enviada | **PA:** atualização controlada pelo sistema | **CE:** informar falha caso o status não possa ser atualizado |
+
+---
 
 ### 5 Síntese da Etapa
 
 O modelo conceitual do Goriah mostra que a plataforma deve ser entendida como um ambiente de conversa acadêmica mediado pela interface. O cenário de interação transformou os problemas antes vividos por Ana e Lucas em situações apoiadas pelo sistema. O design centrado na comunicação organizou a interação como conversa entre usuário e sistema. O mapa de objetivos deixou mais claro o que motiva o uso da plataforma e como os objetivos instrumentais ajudam a alcançar esses fins. Por fim, o esquema conceitual de signos estruturou os principais elementos que compõem a linguagem da interface do feed acadêmico.
 
-Em conjunto, essa etapa cria uma ponte entre análise e prototipação: sai-se do entendimento do problema e passa-se a definir, de forma mais concreta, como o sistema deve conversar com o usuário e quais signos precisam existir para sustentar essa interação.
+O mapa consolidado complementa essa etapa ao reunir, em uma única visão, os perfis de usuário, seus objetivos finais, seus objetivos instrumentais, as funcionalidades relacionadas e os signos envolvidos. Com isso, fica mais claro como cada elemento do sistema contribui para apoiar a experiência acadêmica dos usuários.
+
+Em conjunto, essa etapa cria uma ponte entre análise e prototipação: sai-se do entendimento do problema e passa-se a definir, de forma mais concreta, como o sistema deve conversar com o usuário, quais objetivos precisa apoiar e quais signos precisam existir para sustentar essa interação.

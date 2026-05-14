@@ -24,7 +24,7 @@ Cada etapa está documentada nas páginas abaixo:
 - [10. Aula - Modelagem MoLIC](./docs/aula10/aula10.md)
 - [11. Aula - Prototipação da Interface Usando Figma](./docs/aula11.md)
 - [12. Aula - Planejamento da Avaliação](./docs/aula12.md)
-- [13. Aula - Avaliação de IHC através de Inspeção Heurística](./docs/aula13.md)
+- [13. Aula - Avaliação de IHC através de Inspeção Heurística](./docs/aula13/aula13.md)
 - [14. Aula - Avaliação de Usabilidade baseado em Observação do Usuário](./docs/aula14.md)
 
 ## 🎯 Objetivo da Disciplina

@@ -1,230 +1,121 @@
-# Atividade 12 — Planejamento de Usabilidade
+# Aula 12 — Aplicação do Planejamento de Usabilidade
 
-## 1. Planejamento pelo método DECIDE
+## 1. Dados da Avaliação
 
-| Letra | Etapa | Planejamento |
-|---|---|---|
-| **D** | **Determinar os objetivos da avaliação** | O objetivo desta avaliação é analisar a usabilidade do sistema/protótipo, verificando se a interface permite que o usuário compreenda sua proposta, navegue pelas principais funcionalidades e realize tarefas básicas de forma clara e satisfatória. A avaliação busca identificar problemas de interação, dificuldades de navegação, dúvidas, erros, pontos positivos e oportunidades de melhoria na interface. |
-| **E** | **Explorar as perguntas que serão respondidas** | A avaliação buscará responder se o usuário entende a proposta do sistema, se consegue navegar com facilidade, se encontra as principais funcionalidades, se os textos e botões são compreensíveis, se há pontos de confusão e quais melhorias podem ser feitas na interface. |
-| **C** | **Escolher os métodos de avaliação** | Será utilizado o teste com usuário, acompanhado de observação direta e perguntas sobre a experiência de uso. A participante irá utilizar o sistema enquanto a equipe observa suas ações, dificuldades, dúvidas e comentários. |
-| **I** | **Identificar as questões práticas da avaliação** | A avaliação será realizada com uma participante, que receberá um breve contexto sobre o sistema e será convidada a utilizá-lo livremente ou realizar algumas ações principais. Durante o uso, a equipe observará a interação e fará perguntas para compreender a experiência da participante. |
-| **D** | **Decidir sobre as questões éticas** | Antes do início da avaliação, a participante será informada sobre o objetivo da atividade, os procedimentos realizados e o uso acadêmico dos dados coletados. Será explicado que o sistema está sendo avaliado, e não a participante. A participação será voluntária e anônima. |
-| **E** | **Avaliar, interpretar e apresentar os resultados** | Após a avaliação, os dados coletados serão analisados para identificar pontos positivos, problemas de usabilidade, dificuldades encontradas e sugestões de melhoria. Os resultados serão organizados em um relatório final. |
-
----
-
-## 2. Detalhamento do DECIDE
-
-### D — Determinar os objetivos da avaliação
-
-O objetivo desta avaliação é analisar a usabilidade do sistema/protótipo, verificando se a interface permite que o usuário compreenda sua proposta, navegue pelas principais funcionalidades e realize tarefas básicas de forma clara e satisfatória.
-
-A avaliação busca identificar problemas de interação, dificuldades de navegação, dúvidas, erros, pontos positivos e oportunidades de melhoria na interface. Também pretende verificar se o sistema apresenta clareza nas informações, facilidade de uso, organização visual e boa compreensão das funcionalidades.
-
-#### Objetivos específicos
-
-- Verificar se o usuário entende a finalidade do sistema.
-- Observar se a navegação é clara e intuitiva.
-- Identificar dificuldades durante o uso.
-- Analisar se os textos, botões e informações são compreensíveis.
-- Observar se o usuário consegue encontrar as principais funcionalidades.
-- Coletar opiniões sobre aparência, organização e facilidade de uso.
-- Levantar sugestões de melhoria para a interface.
-
----
-
-### E — Explorar as perguntas que serão respondidas
-
-A avaliação buscará responder às seguintes perguntas:
-
-1. O usuário entende rapidamente para que serve o sistema?
-2. A navegação é clara e intuitiva?
-3. O usuário consegue localizar as principais funcionalidades?
-4. Existem pontos da interface que causam dúvida ou confusão?
-5. Os textos, botões e mensagens são fáceis de compreender?
-6. O usuário consegue utilizar o sistema sem precisar de muita explicação?
-7. A aparência visual do sistema é agradável?
-8. Quais dificuldades foram percebidas durante o uso?
-9. Quais pontos positivos foram percebidos pela participante?
-10. Quais melhorias podem ser feitas na interface?
-
----
-
-### C — Escolher os métodos de avaliação
-
-Será utilizado o método de **teste com usuário**, acompanhado de **observação direta** e **perguntas sobre a experiência de uso**.
-
-A participante receberá um breve contexto sobre o sistema e será convidada a utilizá-lo. Durante a interação, a equipe observará suas ações, dúvidas, comentários, dificuldades e reações.
-
-Esse método permite identificar problemas reais de uso, pois mostra como uma pessoa interage com o sistema na prática. Além disso, as perguntas feitas durante e após o uso ajudam a compreender a percepção da participante sobre clareza, facilidade de uso, organização e aparência da interface.
-
----
-
-### I — Identificar as questões práticas da avaliação
-
-A avaliação será realizada com apenas uma participante. Antes de iniciar o uso, a equipe apresentará um breve contexto sobre o sistema, explicando sua proposta principal e o objetivo da avaliação.
-
-Em seguida, a participante será convidada a explorar o sistema e realizar algumas ações principais. Durante esse processo, a equipe observará sua interação e fará perguntas para entender sua experiência.
-
-A observação será feita de forma direta, registrando dificuldades, dúvidas, comentários, pontos positivos e sugestões de melhoria. O objetivo não será avaliar o desempenho da participante, mas sim identificar possíveis problemas na interface e compreender como ela interpreta o sistema durante o uso.
-
-#### Passo a passo da avaliação
-
-1. Explicar brevemente o objetivo da avaliação.
-2. Apresentar o termo de consentimento.
-3. Dar um contexto sobre o sistema/protótipo.
-4. Pedir para a participante acessar e explorar o sistema.
-5. Solicitar que ela realize algumas ações principais.
-6. Observar dúvidas, dificuldades, comentários e comportamentos durante o uso.
-7. Fazer perguntas sobre clareza, facilidade de uso, aparência e compreensão das funcionalidades.
-8. Registrar as respostas e observações em uma tabela.
-9. Finalizar agradecendo a participação.
-
-#### Recursos necessários
-
-- Sistema ou protótipo a ser avaliado.
-- Computador ou celular.
-- Termo de consentimento.
-- Contexto inicial para a participante.
-- Roteiro de uso.
-- Roteiro de perguntas.
-- Tabela de observação.
-
----
-
-### D — Decidir sobre as questões éticas
-
-Antes do início da avaliação, a participante será informada sobre o objetivo da atividade, os procedimentos que serão realizados e o uso das informações coletadas.
-
-Será explicado que o sistema está sendo avaliado, e não a participante. Assim, qualquer dificuldade encontrada será considerada um problema ou oportunidade de melhoria da interface.
-
-A participação será voluntária, e a participante poderá interromper a avaliação a qualquer momento. As informações coletadas serão utilizadas apenas para fins acadêmicos, sem exposição da identidade da participante.
-
-Também será utilizado um termo de consentimento, no qual a participante confirma que compreendeu a proposta da avaliação e autoriza o uso das informações coletadas de forma anônima.
-
----
-
-### E — Avaliar, interpretar e apresentar os resultados
-
-Após a realização da avaliação, os dados coletados serão analisados para identificar problemas de usabilidade, pontos positivos e sugestões de melhoria.
-
-A análise considerará tanto os dados observados durante o uso quanto as respostas dadas pela participante nas perguntas realizadas.
-
-#### Aspectos analisados
-
-- Facilidade ou dificuldade para entender o sistema.
-- Clareza da navegação.
-- Dúvidas apresentadas durante o uso.
-- Dificuldades encontradas durante a interação.
-- Comentários e reações da participante.
-- Funcionalidades consideradas fáceis ou difíceis.
-- Pontos positivos percebidos.
-- Sugestões de melhoria.
-
-#### Classificação dos problemas
-
-| Gravidade | Descrição |
+| Campo | Informação |
 |---|---|
-| **Baixa** | Problema simples, que não impede o uso do sistema. |
-| **Média** | Problema que dificulta a realização da tarefa ou causa confusão. |
-| **Alta** | Problema que impede a conclusão da tarefa ou compromete muito a experiência do usuário. |
-
-Ao final, será produzido um relatório com o resumo da avaliação, os principais dados coletados, os problemas encontrados e as recomendações para melhoria da interface.
+| Sistema avaliado | Goriah |
+| Método utilizado | Teste com usuário por observação direta |
+| Participante | Juliana |
+| Data da avaliação | 13 de maio de 2026 |
+| Duração da gravação | 23min52s |
+| Ambiente | Reunião online com compartilhamento de tela |
+| Avaliadores | Mariah Santos Gomes e Iago Rosa de Oliveira |
+| Objetivo geral | Observar a experiência de uso do Goriah, identificando dificuldades, dúvidas, pontos positivos e sugestões de melhoria. |
 
 ---
 
-## 3. Instrumentos da Avaliação
+## 2. Aplicação do método DECIDE
 
-Para apoiar a aplicação do método DECIDE, serão utilizados alguns instrumentos de coleta e registro de dados. Esses instrumentos ajudam a organizar a avaliação, registrar as observações feitas durante o teste e analisar os resultados encontrados.
-
-| Instrumento | Objetivo | Como será utilizado |
+| Letra | Etapa | Aplicação na avaliação |
 |---|---|---|
-| **Termo de consentimento** | Informar a participante sobre o objetivo da avaliação e garantir que sua participação seja voluntária. | Será apresentado antes do início do teste. A participante deverá concordar com a realização da atividade e com o uso das informações coletadas apenas para fins acadêmicos. |
-| **Contexto inicial** | Apresentar brevemente a proposta do sistema antes do uso. | Será lido ou explicado para a participante antes de ela começar a navegar pelo sistema. |
-| **Roteiro de uso** | Orientar a participante sobre o que ela deve fazer no sistema. | Será utilizado para pedir que a participante explore o sistema e realize algumas ações principais. |
-| **Tabela de observação** | Registrar o comportamento da participante durante o uso do sistema. | A equipe irá anotar dúvidas, comentários, dificuldades, pontos positivos e tarefas realizadas durante a avaliação. |
-| **Roteiro de perguntas** | Coletar a percepção da participante sobre a experiência de uso. | Será aplicado durante e após a utilização do sistema, com perguntas sobre clareza, facilidade, aparência, dificuldades e sugestões de melhoria. |
+| **D** | **Determinar os objetivos da avaliação** | O objetivo foi avaliar se a usuária conseguia compreender a proposta do Goriah, navegar pelo sistema, interagir com publicações, acessar o perfil, criar uma publicação, utilizar filtros e localizar informações de ajuda. |
+| **E** | **Explorar as perguntas que seriam respondidas** | A avaliação buscou responder se o sistema era intuitivo, se a navegação era clara, quais funcionalidades eram mais fáceis, quais pontos causavam confusão e quais melhorias poderiam ser feitas. |
+| **C** | **Escolher os métodos de avaliação** | Foi utilizado o teste com usuário, acompanhado de observação direta e perguntas sobre a experiência de uso. |
+| **I** | **Identificar as questões práticas da avaliação** | A avaliação foi feita remotamente, com a participante compartilhando a tela. A equipe apresentou o contexto, observou a navegação e registrou dúvidas, dificuldades e comentários. |
+| **D** | **Decidir sobre as questões éticas** | Foi explicado que o objetivo era avaliar o sistema, e não a participante. Também foi informado que dificuldades ou dúvidas seriam consideradas oportunidades de melhoria da interface. |
+| **E** | **Avaliar, interpretar e apresentar os resultados** | Após o teste, os dados observados e as respostas da participante foram organizados para identificar pontos positivos, problemas de usabilidade e recomendações de melhoria. |
 
 ---
 
-## 4. Modelos dos Instrumentos
+## 3. Contexto apresentado para a participante
 
-### 4.1 Termo de Consentimento
+Antes da execução das tarefas, a participante recebeu um breve contexto sobre o sistema:
 
-Eu, ________________________________________, declaro que fui informada sobre os objetivos da avaliação de usabilidade do sistema/protótipo.
+> A plataforma foi desenvolvida no contexto acadêmico. A participante deveria imaginar que era uma estudante universitária utilizando o sistema para encontrar publicações, interagir com estudantes, acompanhar conteúdos de interesse e compartilhar dúvidas ou oportunidades.
 
-Estou ciente de que participarei de uma atividade acadêmica na qual utilizarei o sistema, realizarei algumas ações simples e responderei perguntas sobre minha experiência de uso.
-
-Entendo que o objetivo da avaliação é analisar a interface do sistema, e não o meu desempenho pessoal. Também fui informada de que minha participação é voluntária e que posso interromper a atividade a qualquer momento.
-
-Autorizo o uso das informações coletadas durante a avaliação apenas para fins acadêmicos, sem divulgação da minha identidade.
-
-**Local e data:** ________________________________________
-
-**Assinatura da participante:** ________________________________________
-
-**Assinatura do avaliador:** ________________________________________
+Também foi explicado que a participante deveria utilizar o sistema da forma mais natural possível e comentar o que achasse fácil, difícil ou confuso.
 
 ---
 
-### 4.2 Contexto Inicial
-
-O sistema/protótipo que será avaliado tem como objetivo **[descrever brevemente o objetivo do sistema]**.
-
-Durante esta avaliação, você será convidada a explorar o sistema e realizar algumas ações simples. Não existe resposta certa ou errada, pois o objetivo não é avaliar você, mas sim entender se a interface está clara, fácil de usar e adequada para os usuários.
-
-Enquanto você utiliza o sistema, a equipe poderá observar sua navegação e fazer algumas perguntas sobre sua experiência. Caso encontre dificuldades, fique à vontade para comentar o que está pensando ou o que causou dúvida.
-
----
-
-### 4.3 Roteiro de Uso
-
-| Etapa | Orientação para a participante |
-|---|---|
-| 1 | Acesse a tela inicial do sistema e observe as informações apresentadas. |
-| 2 | Explore livremente o sistema por alguns minutos. |
-| 3 | Procure identificar qual é a principal finalidade do sistema. |
-| 4 | Tente localizar uma funcionalidade que você considere importante. |
-| 5 | Realize uma ação principal dentro do sistema. |
-| 6 | Procure uma informação específica ou uma área que chame sua atenção. |
-| 7 | Comente o que achou fácil, difícil ou confuso durante o uso. |
-
----
-
-### 4.4 Tabela de Observação
+## 4. Tabela de Observação
 
 | Momento observado | O que aconteceu? | Dificuldades percebidas | Comentários da participante | Observações da equipe |
 |---|---|---|---|---|
-| Primeiro contato com o sistema |  |  |  |  |
-| Exploração da tela inicial |  |  |  |  |
-| Navegação entre telas ou seções |  |  |  |  |
-| Busca por uma funcionalidade |  |  |  |  |
-| Realização de uma ação principal |  |  |  |  |
-| Dúvidas ou dificuldades durante o uso |  |  |  |  |
-| Impressão geral da participante |  |  |  |  |
+| Primeiro contato com o sistema | A participante acessou o sistema e iniciou o cadastro. | Teve dúvida sobre qual e-mail utilizar. | Perguntou se deveria usar e-mail pessoal ou corporativo. | A dúvida não comprometeu a continuidade do teste. |
+| Seleção de interesses | A participante chegou à etapa de escolha de interesses. | Teve dúvida se poderia selecionar mais de um interesse e relatou não conhecer alguns termos técnicos. | Comentou que não conhecia vários assuntos por não serem da sua área. | A interface poderia indicar claramente que é possível selecionar mais de um interesse e usar termos mais acessíveis. |
+| Interação com o feed | A participante interagiu com uma publicação no feed. | Teve pequena dúvida se precisava apenas interagir ou criar uma publicação. | Comentou que ações como curtir e comentar eram familiares. | O feed foi percebido como uma área fácil e intuitiva. |
+| Acesso ao perfil | A participante acessou o próprio perfil. | Teve dificuldade para entender como adicionar foto. | Disse que achou que conseguiria colocar a foto diretamente. | O fluxo de foto foi o ponto mais problemático da avaliação. |
+| Criação de publicação | A participante criou uma publicação. | Teve dúvida sobre o tipo de publicação e confundiu o campo de título com o conteúdo principal. | Explicou que associou o fluxo ao funcionamento de redes sociais, onde normalmente não existe separação entre título e corpo. | O formulário de publicação precisa de rótulos e instruções mais claras. |
+| Filtro/busca no feed | A participante utilizou o filtro ou busca. | Teve dúvida leve se deveria inserir uma palavra. | Comentou que o filtro fazia sentido para buscar algo de interesse. | A funcionalidade foi concluída com sucesso, mas pode ter instruções mais claras. |
+| Ajuda/configurações | A participante acessou uma área de apoio. | Teve dúvida entre conta, configurações e ajuda. | Após localizar a ajuda, disse que estava bem explicativo. | A área de ajuda foi bem avaliada, mas o caminho até ela pode ficar mais claro. |
+| Impressão geral | A participante respondeu às perguntas finais. | A principal dificuldade relatada foi colocar foto. | Disse que o sistema é intuitivo, simples, dinâmico e útil para estudantes. | A percepção geral foi positiva, com melhorias pontuais de clareza e fluxo. |
 
 ---
 
-### 4.5 Roteiro de Perguntas sobre a Experiência
+## 5. Respostas da participante
 
-| Momento | Pergunta |
+| Pergunta | Resposta consolidada |
 |---|---|
-| Durante o uso | O objetivo dessa tela ficou claro para você? |
-| Durante o uso | Você conseguiu encontrar facilmente o que procurava? |
-| Durante o uso | Algum botão, texto ou informação causou dúvida? |
-| Durante o uso | Teve alguma etapa que pareceu confusa ou difícil? |
-| Durante o uso | Você esperava que alguma coisa funcionasse de outro jeito? |
-| Após o uso | Qual foi sua primeira impressão sobre o sistema? |
-| Após o uso | O sistema foi fácil de usar? Por quê? |
-| Após o uso | O que você mais gostou na interface? |
-| Após o uso | O que você achou mais confuso ou difícil? |
-| Após o uso | O que você mudaria ou melhoraria? |
-| Após o uso | Você usaria esse sistema novamente? Por quê? |
+| Qual foi sua primeira impressão sobre o sistema? | A participante achou o sistema intuitivo, dinâmico e pouco complexo. Comentou que, após usar mais algumas vezes, a pessoa conseguiria dominar a plataforma. |
+| Por que o sistema pareceu intuitivo? | Porque é simples, sucinto e possui o necessário. A participante também associou ações como curtir, comentar e publicar a redes sociais já conhecidas, como Instagram e Facebook. |
+| O que foi mais fácil? | A parte do feed, principalmente ver publicações, curtir e comentar. |
+| O que foi mais difícil ou confuso? | Colocar foto no perfil foi apontado como a maior dificuldade. |
+| Alguma coisa deveria funcionar de outro jeito? | Em geral, a participante não mudaria o funcionamento principal. Ela considerou o filtro adequado para buscar conteúdos de interesse. |
+| O que poderia melhorar? | O processo de colocar foto no perfil. |
+| Usaria o sistema novamente? | Sim. A participante afirmou que o sistema faz sentido para estudantes, principalmente para trocar ideias em períodos de estudo ou prova. |
+| Comentário adicional | A participante sugeriu avaliar reações diferentes nas publicações, semelhantes às existentes em redes sociais como Facebook e LinkedIn. |
 
 ---
 
-## 5. Resultado Esperado
+## 6. Pontos positivos identificados
 
-Ao final da avaliação, espera-se obter uma visão geral sobre a usabilidade do sistema/protótipo, identificando pontos positivos, problemas de interação e sugestões de melhoria.
+| Ponto positivo | Evidência observada |
+|---|---|
+| Interface intuitiva | A participante afirmou que o sistema é intuitivo e fácil de aprender. |
+| Simplicidade | A participante comentou que o sistema é simples, sucinto e assertivo. |
+| Familiaridade com redes sociais | Ações como curtir, comentar e publicar foram associadas a padrões conhecidos de redes sociais. |
+| Feed fácil de usar | A participante apontou o feed como a parte mais fácil do sistema. |
+| Utilidade acadêmica percebida | A participante afirmou que o sistema faz sentido para estudantes que precisam trocar ideias e estudar. |
+| Página de ajuda explicativa | Ao acessar a área de ajuda, a participante afirmou que estava bem explicativa. |
 
-Os resultados coletados por meio da observação e das perguntas serão organizados em um relatório final. Esse relatório servirá como base para propor ajustes na interface, melhorar a experiência do usuário e tornar o sistema mais claro, eficiente e fácil de usar.
+---
+
+## 7. Problemas de usabilidade identificados
+
+| Problema | Momento em que ocorreu | Gravidade | Recomendação |
+|---|---|---|---|
+| Dúvida sobre seleção múltipla de interesses | Seleção inicial de interesses | Média | Inserir uma instrução clara, como “Selecione um ou mais interesses”. |
+| Termos técnicos pouco familiares | Seleção inicial de interesses | Baixa | Organizar interesses por área ou utilizar termos mais acessíveis para diferentes cursos. |
+| Dificuldade para adicionar foto no perfil | Edição/visualização do perfil | Alta | Permitir upload direto de imagem ou explicar melhor o formato esperado. |
+| Dúvida sobre o tipo de publicação | Criação de publicação | Média | Adicionar exemplos ou descrições curtas para cada tipo de publicação. |
+| Confusão entre título e corpo da publicação | Criação de publicação | Média | Melhorar rótulos e placeholders, diferenciando melhor “título” e “conteúdo”. |
+| Dúvida entre conta, configurações e ajuda | Busca por informações de apoio | Baixa | Destacar melhor a área de ajuda ou revisar a nomenclatura de navegação. |
+| Ausência de reações variadas | Interação com publicações | Baixa | Avaliar futuramente a inclusão de reações além de curtir. |
+
+---
+
+## 8. Sugestões de melhoria
+
+| Nº | Sugestão |
+|---|---|
+| 1 | Inserir uma instrução clara na seleção de interesses informando que é possível escolher mais de uma opção. |
+| 2 | Revisar os nomes dos interesses para torná-los mais compreensíveis para usuários de diferentes áreas. |
+| 3 | Melhorar o fluxo de foto do perfil, priorizando upload direto de imagem. |
+| 4 | Explicar melhor o significado dos tipos de publicação. |
+| 5 | Melhorar os campos de criação de publicação com placeholders mais claros. |
+| 6 | Reforçar visualmente a diferença entre título e conteúdo da publicação. |
+| 7 | Tornar o acesso à ajuda mais evidente. |
+| 8 | Avaliar a inclusão de diferentes tipos de reação nas publicações. |
+
+---
+
+## 9. Conclusão da avaliação
+
+A aplicação do planejamento de usabilidade permitiu observar a experiência real de uma usuária utilizando o Goriah. A participante conseguiu concluir as principais ações propostas, como navegar pelo feed, interagir com publicações, criar uma publicação, usar filtro/busca e acessar a área de ajuda.
+
+A percepção geral foi positiva. A participante considerou o sistema intuitivo, simples, dinâmico e útil para o contexto acadêmico. O feed foi o ponto mais bem compreendido, principalmente por seguir padrões já conhecidos de redes sociais.
+
+Apesar disso, foram identificados pontos de melhoria importantes. A principal dificuldade ocorreu no fluxo de adicionar foto ao perfil. Também houve dúvidas na seleção de interesses, no entendimento do tipo de publicação e na separação entre título e corpo da publicação.
+
+Com base nesses resultados, recomenda-se priorizar ajustes de clareza na interface, especialmente em formulários e fluxos de configuração de perfil. Essas melhorias podem reduzir dúvidas, aumentar a autonomia do usuário e tornar a experiência mais fluida.

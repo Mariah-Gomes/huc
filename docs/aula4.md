@@ -21,6 +21,7 @@ Ainda determinada a encontrar uma fonte mais confiável, Ana acessa o site insti
 Ao final da semana, Ana avalia a situação de forma mais ampla. Conclui que o problema não está na falta de atividades, mas na ausência de um ambiente centralizado e estruturado que reúna todas as oportunidades de forma organizada, atualizada e filtrável por curso ou interesse. Ela percebe que, se existisse uma plataforma única onde pudesse visualizar atividades acadêmicas, eventos e projetos de maneira clara e integrada, sua adaptação à universidade teria sido mais simples, rápida e motivadora.
 
 ### Cenário do Lucas Silva Maciel
+
 Lucas, 24 anos, está em seu último ano da graduação na área de tecnologia. Estagiário em uma empresa do setor, divide sua rotina entre o trabalho, as aulas presenciais, atividades acadêmicas e o desenvolvimento do Trabalho de Conclusão de Curso (TCC). Seus dias são organizados em horários apertados, com pouco espaço para interações sociais prolongadas no campus.
 
 Com a aproximação do prazo para definir o tema do TCC, Lucas começa a se sentir pressionado. Ele tem algumas ideias iniciais, mas não tem certeza se são relevantes, viáveis ou suficientemente inovadoras. Seu objetivo é escolher um tema consistente, com aplicabilidade prática e que seja bem avaliado pela banca. No entanto, percebe que precisa validar suas ideias antes de formalizá-las.
@@ -36,17 +37,19 @@ Ao longo das semanas, Lucas percebe que, com sua rotina corrida, torna-se difíc
 Ao final desse processo, Lucas entende que a dificuldade não está apenas em escolher um tema, mas em conseguir discutir suas ideias com um grupo mais amplo e diversificado de pessoas, especialmente diante de uma rotina intensa e fragmentada.
 
 ## Questões de Refinamento
-|Q| Elemento     |	Questão de Refinamento                                                                                           |
-|-| ------------ | ------------------------------------------------------------------------------------------------------------------|
-|Q1| Objetivo     |	Quais informações são (ou deveriam ser) criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo? |
-|Q2| Ambiente     |	Que dispositivos e outros recursos (inclusive tempo) estão disponíveis para o alcance do objetivo?               |
-|Q3| Atores       |	De quem depende o alcance do objetivo? Quem fornece as informações necessárias ao alcance do objetivo?           |
-|Q4| Planejamento |	Quais são as estratégias alternativas para realizar o objetivo?                                                  |
-|Q5| Ação         |	Quais problemas ou dificuldades podem surgir ao realizá-la? Como podem ser resolvidos ou contornados?            |
-|Q6| Evento       |	Quais eventos são (ou deveriam ser) disparados pela conclusão desse objetivo?                                    |
-|Q7| Avaliação    |	Como os atores conseguem saber se o objetivo foi concluído e alcançado com sucesso?                              |
+
+| Q   | Elemento     | Questão de Refinamento                                                                                           |
+| --- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Q1  | Objetivo     | Quais informações são (ou deveriam ser) criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo? |
+| Q2  | Ambiente     | Que dispositivos e outros recursos (inclusive tempo) estão disponíveis para o alcance do objetivo?               |
+| Q3  | Atores       | De quem depende o alcance do objetivo? Quem fornece as informações necessárias ao alcance do objetivo?           |
+| Q4  | Planejamento | Quais são as estratégias alternativas para realizar o objetivo?                                                  |
+| Q5  | Ação         | Quais problemas ou dificuldades podem surgir ao realizá-la? Como podem ser resolvidos ou contornados?            |
+| Q6  | Evento       | Quais eventos são (ou deveriam ser) disparados pela conclusão desse objetivo?                                    |
+| Q7  | Avaliação    | Como os atores conseguem saber se o objetivo foi concluído e alcançado com sucesso?                              |
 
 ## Refinamento do Cenário de Análise/Problema
+
 ### Cenário da Ana Beatriz Cavalcante
 
 Na primeira semana de aula, Ana Beatriz Cavalcante, 18 anos, caloura do curso de Administração, chega à universidade com grandes expectativas. Ela deseja fazer novos amigos, participar de atividades extracurriculares e começar desde cedo a construir um currículo diferenciado. [Q1] Ela acredita que participar dessas atividades pode ajudá-la a desenvolver habilidades práticas, ampliar sua rede de contatos e fortalecer seu currículo para oportunidades futuras.
@@ -71,7 +74,7 @@ Ainda determinada a encontrar uma fonte mais confiável, Ana acessa o site insti
 
 À medida que executa o plano que havia traçado, Ana começa a perceber um padrão: as informações existem, mas estão fragmentadas entre diferentes canais — professores, redes sociais, grupos informais e site institucional. A cada tentativa, precisa reorganizar mentalmente o que encontrou, cruzar dados e decidir quais informações parecem mais confiáveis. [Q5] Ela começa a perceber que está gastando mais tempo tentando encontrar informações do que participando das próprias atividades.
 
-Ao final da semana, Ana avalia a situação de forma mais ampla. Conclui que o problema não está na falta de atividades, mas na ausência de um ambiente centralizado e estruturado que reúna todas as oportunidades de forma organizada, atualizada e filtrável por curso ou interesse. [Q7] Ana passa a se perguntar se existem outras oportunidades acontecendo na universidade que ela simplesmente não conseguiu encontrar.
+Ao final da semana, Ana avalia a situação de forma mais ampla. Conclui que o problema não está na falta de atividades, mas na ausência de um ambiente centralizado e estruturado que reúna todas as oportunidades de forma organizada, atualizada e filtrável por curso ou interesse. [Q6] O evento esperado seria Ana conseguir localizar uma oportunidade relevante e entender como participar dela. Porém, como as informações estão espalhadas e pouco padronizadas, esse evento não ocorre de forma clara. [Q7] Ana passa a se perguntar se existem outras oportunidades acontecendo na universidade que ela simplesmente não conseguiu encontrar.
 
 ### Cenário do Lucas Silva Maciel
 
@@ -87,4 +90,4 @@ Em seguida, procura dois professores para discutir suas propostas. Consegue conv
 
 Ao longo das semanas, Lucas percebe que, com sua rotina corrida, torna-se difícil ampliar seu círculo de diálogo. Não participa de muitos eventos e raramente permanece no campus além do horário das aulas. [Q5] A proximidade do prazo para definir o tema do TCC aumenta ainda mais sua necessidade de validar suas ideias rapidamente.
 
-Suas interações ficam restritas às mesmas pessoas e aos mesmos ambientes. Avaliando a situação, sente insegurança quanto à qualidade de sua escolha e percebe que está tomando decisões importantes com base em um número reduzido de opiniões. [Q7] Lucas passa a se perguntar se outras pessoas poderiam contribuir com perspectivas diferentes sobre suas ideias, mas não sabe onde encontrar esse tipo de discussão dentro do ambiente acadêmico.
+Suas interações ficam restritas às mesmas pessoas e aos mesmos ambientes. Avaliando a situação, sente insegurança quanto à qualidade de sua escolha e percebe que está tomando decisões importantes com base em um número reduzido de opiniões. [Q6] O evento esperado seria Lucas conseguir validar ou descartar suas ideias iniciais de TCC a partir de contribuições variadas. Porém, como suas interações ficam restritas e fragmentadas, esse evento acontece de forma incompleta. [Q7] Lucas passa a se perguntar se outras pessoas poderiam contribuir com perspectivas diferentes sobre suas ideias, mas não sabe onde encontrar esse tipo de discussão dentro do ambiente acadêmico.

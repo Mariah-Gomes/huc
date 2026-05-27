@@ -210,4 +210,14 @@ No Goriah, essa análise é importante porque ajuda a compreender como os usuár
 
 ## CTT
 
-<img width="763" height="901" alt="CTT - Publicar conteúdo" src="../assets/aula5/ctt-publicarConteudo.png" />
+O CTT representa a tarefa de publicar conteúdo no feed do Goriah. Essa funcionalidade foi escolhida por ser uma ação central da plataforma, pois permite que os estudantes compartilhem dúvidas, soluções, experiências, materiais e informações acadêmicas.
+
+No diagrama, a tarefa principal “Publicar conteúdo” é dividida em três grandes momentos: acessar a criação da publicação, preencher os dados da publicação e finalizar a publicação.
+
+<img width="1073" height="553" alt="CTT - Publicar conteúdo" src="../assets/aula5/ctt-publicarConteudo.png" />
+
+A relação entre “Acessar criação de publicação”, “Preencher dados da publicação” e “Finalizar publicação” representa uma sequência principal, pois o usuário primeiro precisa abrir a área de criação, depois informar os dados necessários e, por fim, concluir o envio.
+
+Na etapa de preenchimento, as subtarefas “Selecionar tipo”, “Informar título”, “Selecionar tags” e “Informar conteúdo” aparecem relacionadas por concorrência/intercalação, pois o usuário pode preencher esses campos em diferentes ordens, desde que todos os dados obrigatórios sejam informados antes da publicação.
+
+Já na etapa final, “Revisar dados da publicação” ocorre antes de “Confirmar publicação”, indicando uma sequência recomendada para reduzir erros antes do envio. Assim, o CTT evidencia que a interface deve orientar o usuário durante o preenchimento, permitir flexibilidade na ordem dos campos e oferecer confirmação clara ao concluir a publicação.

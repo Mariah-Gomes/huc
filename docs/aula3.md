@@ -814,3 +814,19 @@ Portanto, a aplicação deve:
 - Ganhou visibilidade como aluno experiente
 - Construiu conexões úteis para o mercado<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Ele pode até reduzir o uso da plataforma após a formatura, mas reconhece que ela foi decisiva em um momento crítico da sua trajetória acadêmica.
+
+## Observação sobre a jornada da persona secundária
+
+As jornadas detalhadas foram construídas para as personas primárias, Ana Beatriz Cavalcante e Lucas Silva Maciel, pois elas representam os principais perfis de estudantes atendidos pela proposta do Goriah.
+
+A persona Rafael Almeida Martins, professor universitário, foi considerada como persona secundária. Por esse motivo, não foi construída uma jornada completa para ele nesta etapa. Sua participação aparece como elemento complementar do contexto de uso, principalmente na aproximação entre professores e estudantes, no compartilhamento de materiais e no acompanhamento de dúvidas acadêmicas recorrentes.
+
+<div style="background-color:#f6f8fa; border-left:4px solid #6a737d; padding:12px 16px; border-radius:6px; margin:16px 0;">
+
+<strong>Observação sobre as próximas etapas</strong><br><br>
+
+Embora o professor tenha sido considerado como persona secundária, o foco inicial do projeto está nas personas primárias Ana Beatriz Cavalcante e Lucas Silva Maciel, pois ambas representam estudantes universitários, que são o público principal do Goriah.<br><br>
+
+Por isso, nas próximas etapas, as análises serão desenvolvidas principalmente a partir dessas duas personas, mantendo o professor como participante complementar do contexto de uso.
+
+</div>
